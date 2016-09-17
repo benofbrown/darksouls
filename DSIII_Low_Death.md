@@ -191,10 +191,11 @@ Once we've got the *Dark Sigil* from *Yoel of Londor* we will gain one Hollowing
 
 - Sell the soul items and upgrade the sword to *Raw Astora Sword +5*.
 - Buy some *Alluring Skulls* if you have change.
-- Warp to *Rosaria's Chamber*
+- Warp to *Cleansing Chapel*.
 
 ## Cathedral of the Deep II
 
+- Rescue *Siegward* from the Well, then warp to *Rosaria's Chamber*.
 - Kill the *Deacons of the Deep*. Fight as normal in the first phase, in the second buff with a *Gold Pine Resin* then throw an *Alluring Skull* and kill the main dude when the others are distracted.
 - Grab the *Archdeacon set*.
 - Warp to *Firelink Shrine*.
