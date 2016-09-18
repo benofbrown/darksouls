@@ -214,3 +214,35 @@ Once we've got the *Dark Sigil* from *Yoel of Londor* we will gain one Hollowing
 - Extinguish the last flame, cure your poison, kill *Yellowfinger Heysel* and homeward bone back to *Farron Keep*.
 - Warp to *Keep Ruins*, then run to *Farron Keep Perimeter* and light it.
 - Kill the *Abyss Watchers* using the *Gold Pine Resin*.
+
+## Catacombs of Carthus
+
+- Grab the 2 x *Carthus Rouge*.
+- Head back the other way and drop down.
+- Kill the hat-wearing skeleton and pick up the *Undead Bone Shard* the ball of skeletons drops.
+- Run to the bonfire and light it. Don't rest if you don't have to.
+- Grab the *Grave Warden Ashes*.
+- Cut down the bridge, and go down it.
+- Run to the *Abandoned Tomb* bonfire, light it and rest.
+- Pick up the three *Large Titanite Shards* then go in to the cave.
+- Kill the two crystal lizards for a *Twinkling Titanite* and a *Titanite Chunk*.
+- Run to the *Demon Ruins* bonfire, picking up the *Shield of Want*, *Speckled Stoneplate Ring* and a *Large Titanite Shard* on the way.
+- Warp to *Firelink Shrine*.
+
+## Firelink Shrine IX
+
+- Sell all soul items, including boss souls.
+- Hand in the *Grave Warden Ashes*.
+- Buy a *Gold Pine Resin*.
+- Upgrade your sword to *Raw Astora Sword +7*.
+- Level up *VIG* if less than 40 or if *END* has hit 30, otherwise level *END*.
+- Warp to *Catacombs of Carthus*.
+
+## Catacombs of Carthus II
+
+- Kill Wolnir with a *Gold Pine Resin*.
+
+## Irithyll of the Boreal Valley
+
+- Kill Sulyvahn's Beast (carefully) and rest at the bonfire.
+- Warp back to the *Irithyll of the Boreal Valley* bonfire, and do Sirris' quest.
