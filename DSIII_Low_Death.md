@@ -160,7 +160,7 @@ Once we've got the *Dark Sigil* from *Yoel of Londor* we will gain one Hollowing
 - Kill the two bandits and get the *Paladin's Ashes*.
 - Run to the *Cleansing Chapel* bonfire.
 - Kill the mobs by the cross and get the *Estus Shard*.
-- Equip the *Torch* ready to use, and go around the side of the cathedral. Kill two crystal lizards for two *Twinking Titanites*.
+- Equip the *Torch* ready to use, and go around the side of the cathedral. Kill two crystal lizards for two *Twinkling Titanites*.
 - Rest if necessary.
 - Run through the graveyard, dropping down to the right after a bit, then run past the slow mobs and take out the gravewarden.
 - Get the *Undead Bone Shard* and soul items.
@@ -275,8 +275,8 @@ Once we've got the *Dark Sigil* from *Yoel of Londor* we will gain one Hollowing
 - Warp back to firelink and level up.
 - Warp back to dragon barracks, run over the bridge and drop down on the opposite side for the *Undead Bone Shard*. Run back to the bonfire, past the theives, and grab the soul item on the way.
 - Run round the other side, up the stairs, open the shortcut and kill the dragon with firebombs.
-- Run out the back, kill a crystal lizard for two *Twinking Titanites*.
-- Warp to *Profaned Capital*, rescue Siegward for a *Titanite Slab*, killing the two crystal lizards on the way for another two *Twinlink Titanites*. Homeward out
+- Run out the back, kill a crystal lizard for two *Twinkling Titanites*.
+- Warp to *Profaned Capital*, rescue Siegward for a *Titanite Slab*, killing the two crystal lizards on the way for another two *Twinkling Titanites*. Homeward out
 - Warp to *Abyss Watchers*, drop down on the right, kill the hat skeleton.
 - Kill *Anri* and the crystal lizard outside where they are for another *Twinkling Titanite*. Homeward to Firelink.
 - Upgrade *Anri's Straight Sword* fully.
