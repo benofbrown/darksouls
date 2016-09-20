@@ -225,7 +225,7 @@ Once we've got the *Dark Sigil* from *Yoel of Londor* we will gain one Hollowing
 - Cut down the bridge, and go down it.
 - Run to the *Abandoned Tomb* bonfire, light it and rest.
 - Pick up the three *Large Titanite Shards* then go in to the cave.
-- Kill the two crystal lizards for a *Twinkling Titanite* and a *Titanite Chunk*.
+- Kill the two crystal lizards for a *Twinkling Titanite* and a *Titanite Chunk*, grab the two *Large Titanite Shards* and the *Yellow Bug Pellets*.
 - Run to the *Demon Ruins* bonfire, picking up the *Shield of Want*, *Speckled Stoneplate Ring* and a *Large Titanite Shard* on the way.
 - Warp to *Firelink Shrine*.
 
@@ -246,3 +246,50 @@ Once we've got the *Dark Sigil* from *Yoel of Londor* we will gain one Hollowing
 
 - Kill Sulyvahn's Beast (carefully) and rest at the bonfire.
 - Warp back to the *Irithyll of the Boreal Valley* bonfire, and do Sirris' quest.
+- Warp to Firelink Shrine and get the *Silvercat Ring* and warp back.
+- Run to the *Church of Yorshka* bonfire.
+- Backtrack slowly to kill the Crystal Lizard for a *Twinkling Titanite*.
+- Kill Creighton.
+- Get the *Undead Bone Shard*.
+- Get the *Twinkling Titanite* behind the illusory wall.
+- Go to the *Distant Manor* bonfire
+- Grab the ashes, Talk to Siegward.
+
+
+### Needs fleshing out from here on. Bear with me...
+- backtrack to the bonfire
+- Run through Irithyll Dungeon, grabbing the *Xanthous Ashes* on the way, and using an *Undead Hunter Charm* on the mimic for an *Estus Shard*.
+- Run to *Profaned Capital*, light the bonfire and grab the *Undead Bone Shard*.
+- Run to Yhorm, grab storm ruler and homeward out.
+- Kill Yhorm. Warp to Firelink.
+- Buy a couple of *Human Pine Resins*.
+- Level up as usual.
+- Burn the *Undead Bone Shard*, upgrade the estus.
+- Make sure you have ~20 Firebombs.
+- **Talk to Anri!**
+- Warp to *Vordt of the Boreal Valley* bonfire.
+- Start the Dancer fight, homeward out, then restart the fight. I just seem to handle it better that way. Use a *Human Pine Resin* for extra damage.
+- Run to the *Lothric Castle* bonfire, (*Alluring Skulls* help here) and light it.
+- Drop down, kill the big knight and get the *estus shard* in the Consumed King's Garden. Homeward out.
+- Run to the *Dragon Barracks* bonfire.
+- Warp back to firelink and level up.
+- Warp back to dragon barracks, run over the bridge and drop down on the opposite side for the *Undead Bone Shard*. Run back to the bonfire, past the theives, and grab the soul item on the way.
+- Run round the other side, up the stairs, open the shortcut and kill the dragon with firebombs.
+- Run out the back, kill a crystal lizard for two *Twinking Titanites*.
+- Warp to *Profaned Capital*, rescue Siegward for a *Titanite Slab*, killing the two crystal lizards on the way for another two *Twinlink Titanites*. Homeward out
+- Warp to *Abyss Watchers*, drop down on the right, kill the hat skeleton.
+- Kill *Anri* and the crystal lizard outside where they are for another *Twinkling Titanite*. Homeward to Firelink.
+- Upgrade *Anri's Straight Sword* fully.
+- Make sure you have a *Gold Pine Resin* and a *Blue Bug Pellet*.
+- Warp to *Rosaria's Chamber*, join the covenent and reallocate stats to  *VIG*: 40, *DEX*: 11, *LUC*: 30 and the rest in *END*.
+- Kill Pontiff with parries and a *Gold Pine Resin*.
+- Kill Aldrich with magic resistent gear, a *Blue Bug Pellet*, and some *Carthus Rouge*.
+- Level up *LUC*.
+- Kill Dragonslayer Armour using the drang set, and a *Yellow Bug Pellet*.
+- Use a *Carthus Rouge* to kill the second Crystal Sage.
+- Grab the *Undead Bone Shard* near the top of the archives.
+- Open the shortcut, trigger the twins fight and homeward out.
+- Stay near the fog wall, buff with *Carthus Rouge* and take out the *Twin Princes*.
+- Level up *LUC* to 40 then level *END*.
+- Kill Soul of Cinder with a *Carthus Rouge* in the first phase, *Human Pine Resin* in the second.
+- THE END
