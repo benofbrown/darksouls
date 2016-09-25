@@ -73,7 +73,7 @@ This phase takes around an hour, and can be a little scary at times. If you die 
 - Get *Loretta's Bone*, then grab the *Estus Shard* behind the evangelist, run to the left and grab the *Titanite Shard*. Now run by the cliff edge and go over the bridge.
 - Grab the soul item in the stables after killing the mobs. Kill the thief that drops down (should take three hits) and open the door.
 - Bait the firebomb throwers in to blowing up the barrels, then drop down. Kill the mobs down there and grab the *Titanite Shard* before doubling back and lighting the *Cliff Underside* bonfire.
-- **[Potential Danger]** Go around towards the small bridge, and wait for the mobs to disperse. Run across it, and dodge the pot throwers. Keep running until you bump in to *Siegward of Catarina*.
+- **[Potential Danger]** Go around towards the small bridge, and wait for the mobs to disperse. Run across it, and dodge the pot throwers. Keep running until you bump in to *Siegward of Catarina*. **Make sure you talk to Siegward!**
 - Send the lift down, then take it up and make friends with the giant, before going back down, then sending it up, and taking it down to the bottom.
 - Run past the Outrider Knight, open the door and rest at the *Road of Sacrifices* bonfire.
 
@@ -82,8 +82,7 @@ This phase takes around an hour, and can be a little scary at times. If you die 
 - Run through, killing the Corvians, and grabbing the *Titanite Shard*.
 - Drop down before the last bridge. Don't need any of the items there but it's an easier path.
 - Run down to the *Halfway Fortress* bonfire, chat to *Anri* and *Horace*.
-- Carefully kill the mobs with the logs. Head round to the right at the bottom of the hill and kill the dog (a *Throwing Knife* is handy), and the mob there and grab the *Titanite Shard*.
-- Backtrack slightly up the hill and drop down to find another *Titanite Shard*. Drop down again near here for yet another *Titanite Shard*.
+- Kill the first two mobs with the tree stumps and drop down to the left to find another *Titanite Shard*. Drop down again near here for yet another *Titanite Shard*.
 - Go around the left hand edge of the area, carefully killing the four mobs. Drop down for an *Estus Shard*.
 - **[Potential Danger]** Kill the crucified mob and head to the *Crucifixion Woods* bonfire, grabbing the soul item on the way.
 - **[Potential Danger]** Go to the edge of the water, drop down when it's low and run to the other side, grabbing the *Fallen Knight* set. Carefully run past the gank squad, down the ladder and light the *Farron Keep* bonfire.
@@ -96,6 +95,7 @@ This phase takes around an hour, and can be a little scary at times. If you die 
 - **[Potential Danger]** Kill the jumping ghru. Grab the *Titanite Shard* near him, and the other *Titanite Shard* on the way up the hill.
 - Kill the ghru at the top of the stairs, and grab the *Purple Moss Clump* before extinguishing the flame.
 - Run to the *Keep Ruins* bonfire and rest.
+- Loop around to the right under the ramp for a *Titanite Shard*.
 - Go down the ramp and grab the *Undead Bone Shard* near the slugs, then go up the ladder. Go around the side of the building and kill the Crystal Lizard for a *Twinkling Titanite*. Go through the illusory wall to get the *Dreamchaser's Ashes*.
 - Take the lift up, but don't fight the Stray Demon. Instead go the other way, drop down and go around the side, killing the two Crystal Lizards there for two *Large Titanite Shards*. Also get the *Dragoncrest Shield* and start using it.
 - Take the lift back down, rest at the *Old Wolf of Farron* bonfire and warp to *Firelink Shrine*.
@@ -242,6 +242,7 @@ This phase has some tougher bosses in. It's also where we switch to a luck based
 - Upgrade *Anri's Straight Sword* fully.
 - Make sure you have a *Gold Pine Resin* and a *Blue Bug Pellet*.
 - Warp to *Rosaria's Chamber*, join the covenant and reallocate stats to  *Vigour*: 40, *Dexterity*: 11, *Luck*: 30 and the rest in *Endurance*.
+- _Optional_: Kill *Old Demon King*. You should get enough souls for one or two levels.
 
 ## Phase III: Final Push
 
@@ -253,7 +254,7 @@ This phase is a boss rush, with a bit of levelling up. We have all the items we 
 - Kill Dragonslayer Armour using the Drang set, and a *Yellow Bug Pellet*.
 - Use a *Carthus Rouge* to kill the second Crystal Sage.
 - Grab the *Undead Bone Shard* near the top of the archives.
-- Open the short cut, trigger the twins fight and homeward out.
+- Open the short cut, trigger the *Twin Princes* fight and homeward out.
 - Level up *Luck* to 40 then level *Endurance*.
 - Stay near the fog wall, buff with *Carthus Rouge* and take out the *Twin Princes*.
 - Kill Soul of Cinder with a *Carthus Rouge* in the first phase, *Human Pine Resin* in the second.
