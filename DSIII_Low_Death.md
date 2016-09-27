@@ -97,8 +97,8 @@ This phase takes around 45 minutes, and can be a little scary at times. If you d
 - Run to the *Keep Ruins* bonfire and rest.
 - Loop around to the right under the ramp for a *Titanite Shard*.
 - Go down the ramp and grab the *Undead Bone Shard* near the slugs, then go up the ladder. Go around the side of the building and kill the Crystal Lizard for a *Twinkling Titanite*. Go through the illusory wall to get the *Dreamchaser's Ashes*.
-- Take the lift up, but don't fight the Stray Demon. Instead go the other way, drop down and go around the side, killing the two Crystal Lizards there for two *Large Titanite Shards*. Also get the *Dragoncrest Shield* and start using it.
-- Take the lift back down, rest at the *Old Wolf of Farron* bonfire and warp to *Firelink Shrine*.
+- Rest at the *Old Wolf of Farron* bonfire, then take the lift up, but don't fight the Stray Demon. Instead go the other way, drop down and go around the side, killing the two Crystal Lizards there for two *Large Titanite Shards*. Also get the *Dragoncrest Shield* and start using it.
+- Homeward Bone to *Firelink Shrine*. I used to take the lift back down but the drop from the gate can kill you if you don't get it quite right so it's safter to warp out.
 - Give the *Dreamchaser's Ashes* to the *Shrine Handmaiden* and sell her all your soul items.
 - Go to *Andre* and upgrade your sword to *Raw Astora Sword +4*. Also use the three *Estus Shards* to reinforce your estus.
 - Go to the *Firekeeper* and level up *Vigour* as much as you can.
