@@ -11,7 +11,7 @@ The general strategy is to use a Raw weapon for most of the run, as it does dece
 
 ## Phase I - Preparation
 
-This phase takes around an hour, and can be a little scary at times. If you die in this phase you need to reset the run which can be frustrating, particularly near the end. If you survive it though you'll have a +4 weapon and a lot of HP so the next few stages should be easy.
+This phase takes around 45 minutes, and can be a little scary at times. If you die in this phase you need to reset the run which can be frustrating, particularly near the end. If you survive it though you'll have a +4 weapon and a lot of HP so the next few stages should be easy.
 
 - Grab the soul item off to the right near the start.
 - Grab the *Ashen estus flask*.
@@ -111,7 +111,7 @@ Once we've got the *Dark Sigil* from *Yoel of Londor* we will gain one Hollowing
 
 ## Phase II: Easy mode
 
-This phase is pretty easy as you're quite OP by this point, but there are a couple of points that can be quite tricky. I'm not sure of the timings of this phase, I'll try to remember to make a note of it next time.
+This phase is pretty easy as you're quite OP by this point, but there are a couple of points that can be quite tricky. It generally takes me around an hour and 45 minutes.
 
 - Warp to *Tower on the High Wall*.
 - Empty the room where we got our sword of mobs, and get the *Cell Key*.
@@ -197,6 +197,7 @@ This phase is pretty easy as you're quite OP by this point, but there are a coup
 - Buy a *Gold Pine Resin*.
 - Upgrade your sword to *Raw Astora Sword +7*.
 - Level up *Vigour* if less than 40 or if *Endurance* has hit 30, otherwise level *Endurance*.
+- Warp to *Road of Sacrifices*, take the elevator up and kill the Fire Demon. Grab the *Choranthy Ring* on the way down and run to the *Pit of Hollows* bonfire.
 - Warp to *Catacombs of Carthus*.
 - Kill *High Lord Wolnir* with a *Gold Pine Resin*.
 
@@ -225,7 +226,7 @@ This phase is pretty easy as you're quite OP by this point, but there are a coup
 
 ## Phase III: Getting tougher
 
-This phase has some tougher bosses in. It's also where we switch to a luck based build for a better AR and bleed stats.
+This phase has some tougher bosses in. It's also where we switch to a luck based build for a better AR and bleed stats. It's fairly short and takes around 30 minutes.
 
 - Warp to *Vordt of the Boreal Valley* bonfire.
 - Start the Dancer fight, homeward out, then restart the fight. I just seem to handle it better that way. Use a *Human Pine Resin* for extra damage.
@@ -248,6 +249,7 @@ This phase has some tougher bosses in. It's also where we switch to a luck based
 
 This phase is a boss rush, with a bit of levelling up. We have all the items we need though so we don't need to worry about that.
 
+- Warp to *Distant Manor* and open up the short cut to Pontiff. You'll need to kill *Londor Pale Shade* on the way, it's best not to aggro the dogs before this and fight them at the bottom of the stairs.
 - Kill Pontiff with parries and a *Gold Pine Resin*.
 - Kill Aldrich with magic resistant gear, a *Blue Bug Pellet*, and some *Carthus Rouge*.
 - Level up *Luck*.
