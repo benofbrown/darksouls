@@ -175,7 +175,8 @@ This phase is pretty easy as you're quite OP by this point, but there are a coup
 - Warp to *Farron Keep*.
 - Put on the best curse resist gear.
 - Use the quickstep from the dagger to get past the basilisks and run up the ramp, killing the jumping ghru.
-- Extinguish the last flame, cure your poison, kill *Yellowfinger Heysel* and homeward bone back to *Farron Keep*.
+- Extinguish the last flame, cure your poison, kill *Yellowfinger Heysel* and homeward bone to *Firelink Shrine*.
+- You may be able to level up at this point. As before level *Vigour* if it's less than 40, otherwise level *Endurance*.
 - Warp to *Keep Ruins*, then run to *Farron Keep Perimeter* and light it.
 - Kill the *Abyss Watchers* using the *Gold Pine Resin*.
 
@@ -194,26 +195,24 @@ This phase is pretty easy as you're quite OP by this point, but there are a coup
 - Warp to *Firelink Shrine*.
 - Sell all soul items, including boss souls.
 - Hand in the *Grave Warden Ashes*.
-- Buy a *Gold Pine Resin*.
 - Upgrade your sword to *Raw Astora Sword +7*.
 - Level up *Vigour* if less than 40 or if *Endurance* has hit 30, otherwise level *Endurance*.
 - Warp to *Road of Sacrifices*, take the elevator up and kill the Fire Demon. Grab the *Choranthy Ring* on the way down and run to the *Pit of Hollows* bonfire.
 - Warp to *Catacombs of Carthus*.
-- Kill *High Lord Wolnir* with a *Gold Pine Resin*.
+- Kill *High Lord Wolnir*.
 
 ### Irithyll of the Boreal Valley
 
-- Kill Sulyvahn's Beast (carefully) and rest at the bonfire.
-- Warp back to the *Irithyll of the Boreal Valley* bonfire, and do Sirris' quest.
+- Kill Sulyvahn's Beast (carefully) and rest at the *Central Irithyll* bonfire.
+- Backtrack to Sirris' summon sign on the bridge and help her kill *Creighton The Wanderer*.
 - Warp to Firelink Shrine and get the *Silvercat Ring* and warp back.
 - **[Potential Danger]** Run to the *Church of Yorshka* bonfire.
 - Backtrack slowly to kill the Crystal Lizard for a *Twinkling Titanite*.
-- Kill Creighton.
+- Go out the other door near the bonfire, kill the two Irithyllian Slaves then head around to the right to be invaded by Creighton. Kill Creighton.
 - Get the *Undead Bone Shard*.
 - Get the *Twinkling Titanite* behind the illusory wall.
-- Go to the *Distant Manor* bonfire
-- Grab the ashes, Talk to *Siegward of Catarina*.
-- Backtrack to the bonfire
+- Go in to the outlet where the Sewer Centipedes are and run past them all and up the stairs. Talk to *Siegward of Catarina* until he repeats his dialogue.
+- Go back down the stairs, collecting the *Excremental Ashes* as you go, and rest at the *Distant Manor* bonfire.
 - Run through Irithyll Dungeon, grabbing the *Xanthous Ashes* on the way, and using an *Undead Hunter Charm* on the mimic for an *Estus Shard*.
 - Run to *Profaned Capital*, light the bonfire and grab the *Undead Bone Shard*.
 - Run to Yhorm, grab storm ruler and homeward out.
@@ -221,7 +220,7 @@ This phase is pretty easy as you're quite OP by this point, but there are a coup
 - Buy a couple of *Human Pine Resins*.
 - Level up as usual.
 - Burn the *Undead Bone Shard*, upgrade the estus.
-- Make sure you have ~20 Firebombs.
+- Make sure you have ~20 Firebombs, and a *Gold Pine Resin*.
 - **Talk to Anri!**
 
 ## Phase III: Getting tougher
@@ -233,15 +232,16 @@ This phase has some tougher bosses in. It's also where we switch to a luck based
 - Run to the *Lothric Castle* bonfire, (*Alluring Skulls* help here) and light it.
 - Drop down, kill the big knight and get the *Estus Shard* in the Consumed King's Garden. Homeward out.
 - Run to the *Dragon Barracks* bonfire.
-- Warp back to Firelink Shrine and level up.
 - Warp back to Dragon Barracks, run over the bridge and drop down on the opposite side for the *Undead Bone Shard*. Run back to the bonfire, past the thieves, and grab the soul item on the way.
 - Run round the other side, up the stairs, open the short cut and kill the dragon with firebombs.
 - Run out the back, kill a crystal lizard for two *Twinkling Titanites*.
-- Warp to *Profaned Capital*, rescue Siegward for a *Titanite Slab*, killing the two crystal lizards on the way for another two *Twinkling Titanites*. Homeward out
+- Warp to *Profaned Capital*, rescue Siegward for a *Titanite Slab*, killing the two crystal lizards on the way for another two *Twinkling Titanites*.
+- Drop down to where the giant and rats are and take the lift up to the Irithyll Dungeon bonfire.
 - Warp to *Abyss Watchers*, drop down on the right, kill the hat-wearing skeleton so we can go safely up the stairs.
-- Kill *Anri* and the crystal lizard outside where they are for another *Twinkling Titanite*. Homeward to Firelink.
+- Kill *Anri* with a *Gold Pine Resin*, and the crystal lizard outside for another *Twinkling Titanite*. Homeward to Firelink.
 - Upgrade *Anri's Straight Sword* fully.
-- Make sure you have a *Gold Pine Resin* and a *Blue Bug Pellet*.
+- Reinforce estus and burn any bone shards you have.
+- Make sure you have a *Gold Pine Resin* and a *Blue Bug Pellet*. Two *Gold Pine Resin* if you are going to kill *Old Demon King*.
 - Warp to *Rosaria's Chamber*, join the covenant and reallocate stats to  *Vigour*: 40, *Dexterity*: 11, *Luck*: 30 and the rest in *Endurance*.
 - _Optional_: Kill *Old Demon King*. You should get enough souls for one or two levels.
 
@@ -252,13 +252,18 @@ This phase is a boss rush, with a bit of levelling up. We have all the items we 
 - Warp to *Distant Manor* and open up the short cut to Pontiff. You'll need to kill *Londor Pale Shade* on the way, it's best not to aggro the dogs before this and fight them at the bottom of the stairs.
 - Kill Pontiff with parries and a *Gold Pine Resin*.
 - Kill Aldrich with magic resistant gear, a *Blue Bug Pellet*, and some *Carthus Rouge*.
-- Level up *Luck*.
+- Warp to Firelink Shrine and level up *Luck*, then warp to Dragon Barracks.
 - Kill Dragonslayer Armour using the Drang set, and a *Yellow Bug Pellet*.
-- Use a *Carthus Rouge* to kill the second Crystal Sage.
+- Head in to the archives, and use a *Carthus Rouge* to kill the second Crystal Sage near the start.
+- Take the short cut ladder up, run to the left, then drop down on to the bridge and keep going up.
+- Jump to the right of where the first gargoyle is for a pretty big short cut. Be prepared to kill the two thralls that drop down along the side.
 - Grab the *Undead Bone Shard* near the top of the archives.
-- Open the short cut, trigger the *Twin Princes* fight and homeward out.
+- Run past the gank squad, go down the lift and rest at the bonfire to reset them before heading back up.
+- Open the short cut, homeward bone to Firelink.
 - Level up *Luck* to 40 then level *Endurance*.
+- Trigger the *Twin Princes* fight and homeward out.
 - Stay near the fog wall, buff with *Carthus Rouge* and take out the *Twin Princes*.
-- Kill Soul of Cinder with a *Carthus Rouge* in the first phase, *Human Pine Resin* in the second.
+- Warp to Firelink and level up *Endurance* (*Luck* should already be at 40).
+- Kill Soul of Cinder with *Carthus Rouge*.
 
 ## THE END!
