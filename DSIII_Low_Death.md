@@ -111,7 +111,7 @@ Once we've got the *Dark Sigil* from *Yoel of Londor* we will gain one Hollowing
 
 ## Phase II: Easy mode
 
-This phase is pretty easy as you're quite OP by this point, but there are a couple of points that can be quite tricky. It generally takes me around an hour and 45 minutes.
+This phase is pretty easy as you're quite OP by this point, but there are a couple of points that can be quite tricky. It generally takes me around an hour and 45 minutes. The Raw Astora Sword +4 does 229 AR, and you should have 24 Vigour by now. Along with 9 upgraded Estus flasks it shouldn't be too hard.
 
 - Warp to *Tower on the High Wall*.
 - Empty the room where we got our sword of mobs, and get the *Cell Key*.
@@ -153,7 +153,7 @@ This phase is pretty easy as you're quite OP by this point, but there are a coup
 - Kill the mob, and then *Longfinger Kirk*, and then the other giant, getting yet another *Large Titanite Shard*.
 - Go back around and grab *Lloyd's Sword Ring*. It's easier with the giant dead.
 - Open the final short cut, and kill *Patches*. This saves a lot of souls and quite a bit of trouble.
-- Go over the bridge and light the *Rosaria's Bedchamber* bonfire. Warp to *Firelink Shrine*.
+- Go over the bridge and light the *Rosaria's Bedchamber* bonfire. Warp to *Cleansing Chapel* and rescue *Siegward* from the well.
 - Go to *Andre* and reinforce estus.
 - Sell all your soul items. Give the handmaiden the *Paladin's Ashes* and *Patches' Ashes*.
 - Buy the *Short Bow* and 60 *Standard Arrows* from Greirat.
@@ -164,19 +164,15 @@ This phase is pretty easy as you're quite OP by this point, but there are a coup
 - Grab the soul items and warp back to *Firelink Shrine*.
 - Sell the soul items and upgrade the sword to *Raw Astora Sword +5*.
 - Buy some *Alluring Skulls* if you have change.
-- Warp to *Cleansing Chapel*.
-- Rescue *Siegward* from the Well, then warp to *Rosaria's Chamber*.
+- Warp to *Rosaria's Chamber*.
 - Kill the *Deacons of the Deep*. Fight as normal in the first phase, in the second buff with a *Gold Pine Resin* then throw an *Alluring Skull* and kill the main dude when the others are distracted.
 - Grab the *Archdeacon set*.
-- Warp to *Firelink Shrine*.
+- Warp to *Farron Keep*.
+- Use the quickstep from the dagger to get past the basilisks and run up the ramp, killing the jumping ghru.
+- Extinguish the last flame, cure your poison, kill *Yellowfinger Heysel* and homeward bone to *Firelink Shrine*.
 - Sell the Deacon's soul
 - Buy a *Gold Pine Resin*.
 - Level *Vigour* if less than 40, else level *Endurance*
-- Warp to *Farron Keep*.
-- Put on the best curse resist gear.
-- Use the quickstep from the dagger to get past the basilisks and run up the ramp, killing the jumping ghru.
-- Extinguish the last flame, cure your poison, kill *Yellowfinger Heysel* and homeward bone to *Firelink Shrine*.
-- You may be able to level up at this point. As before level *Vigour* if it's less than 40, otherwise level *Endurance*.
 - Warp to *Keep Ruins*, then run to *Farron Keep Perimeter* and light it.
 - Kill the *Abyss Watchers* using the *Gold Pine Resin*.
 
@@ -189,7 +185,7 @@ This phase is pretty easy as you're quite OP by this point, but there are a coup
 - Grab the *Grave Warden Ashes*.
 - Cut down the bridge, and go down it.
 - Run to the *Abandoned Tomb* bonfire, light it and rest.
-- Pick up the three *Large Titanite Shards* then go in to the cave.
+- Pick up two *Large Titanite Shards* then go in to the cave.
 - Kill the two crystal lizards for a *Twinkling Titanite* and a *Titanite Chunk*, grab the two *Large Titanite Shards* and the *Yellow Bug Pellets*.
 - Run to the *Demon Ruins* bonfire, picking up the *Shield of Want*, *Speckled Stoneplate Ring* and a *Large Titanite Shard* on the way.
 - Warp to *Firelink Shrine*.
@@ -199,7 +195,11 @@ This phase is pretty easy as you're quite OP by this point, but there are a coup
 - Level up *Vigour* if less than 40 or if *Endurance* has hit 30, otherwise level *Endurance*.
 - Warp to *Road of Sacrifices*, take the elevator up and kill the Fire Demon. Grab the *Choranthy Ring* on the way down and run to the *Pit of Hollows* bonfire.
 - Warp to *Catacombs of Carthus*.
-- Kill *High Lord Wolnir*.
+- Kill *High Lord Wolnir* with the *Shield of Want* equipped.
+
+### Shield of Want
+
+From now on you either want to have this shield equipped all the time, or switch to it quickly after a boss fight for maximum souls. You can't use it as a shield as you won't have enough *Strength*, but I don't really use it anyway. In times I do need a shield I either use the *Target Shield* for parrying or *Dragon Crest Shield* for blocking dogs etc.
 
 ### Irithyll of the Boreal Valley
 
@@ -215,7 +215,7 @@ This phase is pretty easy as you're quite OP by this point, but there are a coup
 - Go back down the stairs, collecting the *Excremental Ashes* as you go, and rest at the *Distant Manor* bonfire.
 - Run through Irithyll Dungeon, grabbing the *Xanthous Ashes* on the way, and using an *Undead Hunter Charm* on the mimic for an *Estus Shard*.
 - Run to *Profaned Capital*, light the bonfire and grab the *Undead Bone Shard*.
-- Run to Yhorm, grab storm ruler and homeward out.
+- Run to Yhorm, grab storm ruler and homeward out, unless you're comfortable with how much estus you have left, in that case kill Yhorm now.
 - Kill Yhorm. Warp to Firelink.
 - Buy a couple of *Human Pine Resins*.
 - Level up as usual.
@@ -241,9 +241,9 @@ This phase has some tougher bosses in. It's also where we switch to a luck based
 - Kill *Anri* with a *Gold Pine Resin*, and the crystal lizard outside for another *Twinkling Titanite*. Homeward to Firelink.
 - Upgrade *Anri's Straight Sword* fully.
 - Reinforce estus and burn any bone shards you have.
-- Make sure you have a *Gold Pine Resin* and a *Blue Bug Pellet*. Two *Gold Pine Resin* if you are going to kill *Old Demon King*.
+- Make sure you have at least two *Gold Pine Resin* and a *Blue Bug Pellet*.
 - Warp to *Rosaria's Chamber*, join the covenant and reallocate stats to  *Vigour*: 40, *Dexterity*: 11, *Luck*: 30 and the rest in *Endurance*.
-- _Optional_: Kill *Old Demon King*. You should get enough souls for one or two levels.
+- Warp to *Demon Ruins* and kill *Old Demon King*, then warp back to *Firelink Shrine*. You should get enough souls for two levels.
 
 ## Phase III: Final Push
 
