@@ -44,8 +44,8 @@ This phase takes around 45 minutes, and can be a little scary at times. If you d
 - Drop down to the next level, and grab the *Black Firebombs*.
 - Backtrack slightly in to the building you were on top of, and head to the left. Kill the crossbowman at the top of the stairs, then turn around and kill the lantern wielder behind you. Move in to the next room killing the bandit on the left and grab the *Titanite Shard*. Go back down the stairs, smash the pots and kill the mob behind them, and grab the *Undead Hunter Charm*.
 - Dodge past the Lothric Knight with the spear, and head in to the corridor. Immediately roll to the right and smash through the barrels.
-- **[Potential Danger]** Run to the end of this platform, grab the *Green Blossoms*, and roll through yet more barrels. Drop down again, and grab then equip the *Astora Straight Sword*.
-- Heal if necessary, then run and jump through the gap in the fence, rolling when you hit the ground and grab the *Estus Shard*. Keep rolling outside, then through the barrels and drop down. Run through the courtyard, and kill the crossbowman on the right, turn around and kill the other mob. Grab the soul item there and make your way to the Cathedral, talking to *Emma* and getting the *Small Lothric Banner*.
+- Run to the end of this platform, grab the *Green Blossoms*, and roll through yet more barrels. Drop down again, and grab then equip the *Astora Straight Sword*.
+- **[Potential Danger]** Heal if necessary, then run and jump through the gap in the fence, rolling when you hit the ground and grab the *Estus Shard*. Keep rolling outside, then through the barrels and drop down. Run through the courtyard, and kill the crossbowman on the right, turn around and kill the other mob. Grab the soul item there and make your way to the Cathedral, talking to *Emma* and getting the *Small Lothric Banner*.
 - Backtrack to where the crossbowman was, run straight ahead and take the lift up. Grab the *Throwing Knives* at the top, open the gate and run back to the *High wall of Lothric* bonfire. Kill any dogs that follow you up there, then warp to *Firelink Shrine*.
 - Run up and out, and do the Tree skip
 - Drop the following for the crows:
@@ -72,15 +72,14 @@ This phase takes around 45 minutes, and can be a little scary at times. If you d
 - Get the *Alluring Skulls*, *Homeward Bones* and talk to *Yoel of Londor* until he disappears.
 - Get *Loretta's Bone*, then grab the *Estus Shard* behind the evangelist, run to the left and grab the *Titanite Shard*. Now run by the cliff edge and go over the bridge.
 - Grab the soul item in the stables after killing the mobs. Kill the thief that drops down (should take three hits) and open the door.
-- Bait the firebomb throwers in to blowing up the barrels, then drop down. Kill the mobs down there and grab the *Titanite Shard* before doubling back and lighting the *Cliff Underside* bonfire.
+- Bait the firebomb throwers in to blowing up the barrels, then drop down. Rest at the *Cliff Underside* bonfire, then backtrack and kill the mobs down there before grabbing the *Titanite Shard* by the last one of them. By resting at the bonfire first you gain an advantage as the mobs aren't aggroed, and also don't have to wait as long for the mobs to disperse in the next step.
 - **[Potential Danger]** Go around towards the small bridge, and wait for the mobs to disperse. Run across it, and dodge the pot throwers. Keep running until you bump in to *Siegward of Catarina*. **Make sure you talk to Siegward!**
 - Send the lift down, then take it up and make friends with the giant, before going back down, then sending it up, and taking it down to the bottom.
 - Run past the Outrider Knight, open the door and rest at the *Road of Sacrifices* bonfire.
 
 ### Road of Sacrifices
 
-- Run through, killing the Corvians, and grabbing the *Titanite Shard*.
-- Drop down before the last bridge. Don't need any of the items there but it's an easier path.
+- Run through, killing the Corvians, and grabbing the *Titanite Shard* towards the end.
 - Run down to the *Halfway Fortress* bonfire, chat to *Anri* and *Horace*.
 - Kill the first two mobs with the tree stumps and drop down to the left to find another *Titanite Shard*. Drop down again near here for yet another *Titanite Shard*.
 - Go around the left hand edge of the area, carefully killing the four mobs. Drop down for an *Estus Shard*.
@@ -99,6 +98,7 @@ This phase takes around 45 minutes, and can be a little scary at times. If you d
 - Go down the ramp and grab the *Undead Bone Shard* near the slugs, then go up the ladder. Go around the side of the building and kill the Crystal Lizard for a *Twinkling Titanite*. Go through the illusory wall to get the *Dreamchaser's Ashes*.
 - Rest at the *Old Wolf of Farron* bonfire, then take the lift up, but don't fight the Stray Demon. Instead go the other way, drop down and go around the side, killing the two Crystal Lizards there for two *Large Titanite Shards*. Also get the *Dragoncrest Shield* and start using it.
 - Homeward Bone to *Firelink Shrine*. I used to take the lift back down but the drop from the gate can kill you if you don't get it quite right so it's safter to warp out.
+- Buy a *Dagger* and a *Torch*.
 - Give the *Dreamchaser's Ashes* to the *Shrine Handmaiden* and sell her all your soul items.
 - Go to *Andre* and upgrade your sword to *Raw Astora Sword +4*. Also use the three *Estus Shards* to reinforce your estus.
 - Go to the *Firekeeper* and level up *Vigour* as much as you can.
@@ -125,13 +125,6 @@ This phase is pretty easy as you're quite OP by this point, but there are a coup
 - Kill *Holy Knight Hodrick*.
 - Go through the graveyard, pick up the *Mortician's Ashes* and *Undead Bone Shard*.
 - Open the short cut gate, then kill the *Curse-rotted Greatwood*.
-- Warp to *Firelink Shrine*.
-- Talk to *Greirat*, he'll offer to go looting. Accept his offer.
-- Warp to *Firelink Shrine* again to reset, check that *Greirat* has gone.
-- Sell all your soul items, including boss souls. Give the *Mortician's Ashes* to the handmaiden.
-- Buy a *Dagger* and a *Torch*.
-- Level up *Vigour* as much as you can.
-- Burn the *Undead Bone Shard*.
 - Warp to *Crucifixion Woods*.
 - Kill the *Crystal Sage*. No buffs required.
 - Kill the two crystal lizards after that for two *Twinkling Titanites*.
@@ -149,30 +142,22 @@ This phase is pretty easy as you're quite OP by this point, but there are a coup
 - Equip the *Alluring Skulls* and use one near the small room that the thieves jump out of.
 - Open the short cut down to the *Cleansing Chapel* and rest.
 - Equip the *Dagger* in place of the *Torch*.
-- Go back up, drop down and kill the giant, collecting the *Large Titanite Shard* he drops, and the *Maiden* set.
-- Kill the mob, and then *Longfinger Kirk*, and then the other giant, getting yet another *Large Titanite Shard*.
-- Go back around and grab *Lloyd's Sword Ring*. It's easier with the giant dead.
+- Go back up, grab *Lloyd's Sword Ring* then drop down and kill the giant, collecting the *Large Titanite Shard* he drops, and the *Maiden* set.
+- Kill the mob, and then *Longfinger Kirk*, and then quickstep past the other giant, picking up the *Drang Set* and a *Pale Tongue* on the way.
 - Open the final short cut, and kill *Patches*. This saves a lot of souls and quite a bit of trouble.
 - Go over the bridge and light the *Rosaria's Bedchamber* bonfire. Warp to *Cleansing Chapel* and rescue *Siegward* from the well.
-- Go to *Andre* and reinforce estus.
-- Sell all your soul items. Give the handmaiden the *Paladin's Ashes* and *Patches' Ashes*.
-- Buy the *Short Bow* and 60 *Standard Arrows* from Greirat.
-- Level *Dexterity* to 12, then level up *Vigour*. If it's hit 40, stop levelling it and do *Endurance* instead.
-- Burn the *Undead Bone Shard*.
-- Warp to the *High Wall of Lothric* bonfire.
-- Shoot the dragon with arrows until he flies away and drops you a *Large Titanite Shard*.
-- Grab the soul items and warp back to *Firelink Shrine*.
-- Sell the soul items and upgrade the sword to *Raw Astora Sword +5*.
-- Buy some *Alluring Skulls* if you have change.
-- Warp to *Rosaria's Chamber*.
+- Warp back to *Rosaria's Chamber*.
 - Kill the *Deacons of the Deep*. Fight as normal in the first phase, in the second buff with a *Gold Pine Resin* then throw an *Alluring Skull* and kill the main dude when the others are distracted.
 - Grab the *Archdeacon set*.
 - Warp to *Farron Keep*.
 - Use the quickstep from the dagger to get past the basilisks and run up the ramp, killing the jumping ghru.
 - Extinguish the last flame, cure your poison, kill *Yellowfinger Heysel* and homeward bone to *Firelink Shrine*.
-- Sell the Deacon's soul
+- Sell the Deacons and Crystal Sages souls, and any other soul items.
+- Give the handmaiden the *Mortician's Ashes*, *Paladin's Ashes*, and *Patches' Ashes*.
 - Buy a *Gold Pine Resin*.
 - Level *Vigour* if less than 40, else level *Endurance*
+- Go to *Andre* and reinforce estus.
+- Burn the two *Undead Bone Shards*.
 - Warp to *Keep Ruins*, then run to *Farron Keep Perimeter* and light it.
 - Kill the *Abyss Watchers* using the *Gold Pine Resin*.
 
@@ -185,15 +170,15 @@ This phase is pretty easy as you're quite OP by this point, but there are a coup
 - Grab the *Grave Warden Ashes*.
 - Cut down the bridge, and go down it.
 - Run to the *Abandoned Tomb* bonfire, light it and rest.
-- Pick up two *Large Titanite Shards* then go in to the cave.
+- Pick up three *Large Titanite Shards* then go in to the cave.
 - Kill the two crystal lizards for a *Twinkling Titanite* and a *Titanite Chunk*, grab the two *Large Titanite Shards* and the *Yellow Bug Pellets*.
-- Run to the *Demon Ruins* bonfire, picking up the *Shield of Want*, *Speckled Stoneplate Ring* and a *Large Titanite Shard* on the way.
+- Run to the *Demon Ruins* bonfire, picking up the *Shield of Want*, *Speckled Stoneplate Ring* and two *Large Titanite Shards* on the way.
 - Warp to *Firelink Shrine*.
 - Sell all soul items, including boss souls.
 - Hand in the *Grave Warden Ashes*.
 - Upgrade your sword to *Raw Astora Sword +7*.
 - Level up *Vigour* if less than 40 or if *Endurance* has hit 30, otherwise level *Endurance*.
-- Warp to *Road of Sacrifices*, take the elevator up and kill the Fire Demon. Grab the *Choranthy Ring* on the way down and run to the *Pit of Hollows* bonfire.
+- Warp to *Road of Sacrifices*, take the elevator up and kill the Fire Demon with the *Shield of Want* equipped. Grab the *Choranthy Ring* on the way down and run to the *Pit of Hollows* bonfire.
 - Warp to *Catacombs of Carthus*.
 - Kill *High Lord Wolnir* with the *Shield of Want* equipped.
 
