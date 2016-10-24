@@ -1,6 +1,6 @@
 # Dark Souls III - Low Death run
 
-This is my current strategy for finishing the game with as few deaths as possible, hopefully even 0 deaths soon.
+This is my current strategy for finishing the game with as few deaths as possible. On the 22nd October 2016 I managed a run with 0 deaths.
 
 The general strategy is to use a Raw weapon for most of the run, as it does decent damage and we can then concentrate on levelling up Vigour to give us a lot of HP. Later in the run the damage isn't as good, so we switch to a Luck/Bleed build using Anri's Straight Sword.
 
