@@ -1,5 +1,65 @@
 Rough notes on all trophies casual run.
 
+# Main Game
+
+Very rough notes!
+
+## NG
+
+### Missables:
+
+- Eileen's badge
+- Dude in Old Yharnam's Badge
+
+### General route
+
+- Grab Saw Spear, upgrade it a bit and kill Gascoigne
+- BSB, more upgrading
+- Get kidnapped, more materials and Moon rune
+- Find the source of the dream. Grab the third cord
+- Amelia
+- Start of DLC, run around for upgrade materils
+- Witches of Hemwick
+- Cainhurst for materials
+- Upgrade weapon to +9
+- Shadows
+- Rom
+- One Reborn, grab Tonitrus, chunks and good gem first
+- Micolash
+- Blood Rock
+- Upper Cathedral - Grab the Ritual Blood (5), kill Celestial Emissary and Ebrietas
+- Wet nurse
+- Ludwig
+- Living Failures
+- Maria
+- Orphan
+- Laurence
+- Martyr Logarius - put the crown on and get Cainhurst badge and summons
+- Give summons to Alfred
+- Go and get third cord from fake iosefka
+- Amygdala (grab the Red Jelly on the way)
+- Eat the three cords
+- Gehrman
+
+# NG+
+
+Much faster now just:
+
+- Gascoigne
+- Buy hunters embelem from messengers
+- Amelia
+- Shadows
+- Rom
+- One Reborn
+- Drop down by the giant in the lecture hall to get the last Red Jelly
+- Micolash
+- Wet nurse
+- Gehrman
+
+# NG++
+
+Same as NG+, but no need for Red Jelly, and surrender to Gehrman.
+
 # Chalice Dungeons
 
 Easiest at the end, as you can buy Ritual Blood (5) in NG+ and beyond. Need to kill BSB in main game but you already do that for the trophy. Inspired by http://imgur.com/gallery/YobZp - I wanted a text based version to refer to and also take material availability in NG+ in to account.
