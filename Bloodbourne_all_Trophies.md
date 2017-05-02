@@ -18,28 +18,31 @@ Very rough notes!
 - Get kidnapped, more materials and Moon rune
 - Find the source of the dream. Grab the third cord
 - Amelia
-- Start of DLC, run around for upgrade materils
+- Start of DLC, run around for upgrade materials
 - Witches of Hemwick
 - Cainhurst for materials
+- Nightmare frontier for materials - Maybe try without? Only need it to go from +8 to +9. If you do go, grab the Red Jelly in the Lecture Hall on the way.
 - Upgrade weapon to +9
 - Shadows
 - Rom
 - One Reborn, grab Tonitrus, chunks and good gem first
 - Micolash
 - Blood Rock
+- Darkbeast Paarl. Go through the door and talk to the Djura, also get Charred Hunter set and Rifle Spear
 - Upper Cathedral - Grab the Ritual Blood (5), kill Celestial Emissary and Ebrietas
 - Wet nurse
+- Martyr Logarius - put the crown on and get Cainhurst badge and summons
+- Give summons to Alfred
+- Go and get third cord from fake iosefka
+- Amygdala (grab the Red Jelly on the way if you didn't before)
 - Ludwig
 - Living Failures
 - Maria
 - Orphan
 - Laurence
-- Martyr Logarius - put the crown on and get Cainhurst badge and summons
-- Give summons to Alfred
-- Go and get third cord from fake iosefka
-- Amygdala (grab the Red Jelly on the way)
 - Eat the three cords
 - Gehrman
+- Moon Presence
 
 # NG+
 
