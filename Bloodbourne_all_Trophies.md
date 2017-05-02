@@ -13,36 +13,46 @@ Very rough notes!
 
 ### General route
 
-- Grab Saw Spear, upgrade it a bit and kill Gascoigne
-- BSB, more upgrading
-- Get kidnapped, more materials and Moon rune
-- Find the source of the dream. Grab the third cord
-- Amelia
-- Start of DLC, run around for upgrade materials
-- Witches of Hemwick
-- Cainhurst for materials
-- Nightmare frontier for materials - Maybe try without? Only need it to go from +8 to +9. If you do go, grab the Red Jelly in the Lecture Hall on the way.
+- Grab Saw Spear, upgrade it a bit and kill Gascoigne **Father Gascoigne**
+- Convert the Red Brooch to get a blood gem. **Blood Gem Contact**
+- BSB, more upgrading **Blood-starved Beast**, **Chalice of Pthumeru**
+- Get kidnapped, more materials and Moon rune **Rune Contact**
+- Jump off the lift half-way up in Oedon Chapel and get the Formless Oedon rune **Rune Master**
+- Find the source of the dream. Grab the third cord and *Old Hunter Bone*. **The Source of the Dream**
+- Run around Hemwick collecting materials, don't kill the boss yet though.
+- Kill Amelia **Vicar Amelia**
+- Run to Forbidden Woods, grab the *Tonsil Stone*, *Blue Elixir*, *Beast Raw* and open path to Iosefka's Clinic.
+- Start of DLC, run around for upgrade materials. *Blue Elixir* comes in handy here in the cave with the *Amygdalan Arm*.
+- Kill Witch of Hemwick **The Witch of Hemwick**
+- Cainhurst for materials and *Executioner's Gloves* **Cainhurst**
+- Nightmare frontier for materials - Maybe try without? Only need it to go from +8 to +9. If you do go, grab the *Red Jelly* and *Augur of Ebrietas* in the Lecture Hall on the way. **Nightmare Lecture Building**
 - Upgrade weapon to +9
-- Shadows
-- Rom
-- One Reborn, grab Tonitrus, chunks and good gem first
-- Micolash
-- Blood Rock
-- Darkbeast Paarl. Go through the door and talk to the Djura, also get Charred Hunter set and Rifle Spear
-- Upper Cathedral - Grab the Ritual Blood (5), kill Celestial Emissary and Ebrietas
-- Wet nurse
-- Martyr Logarius - put the crown on and get Cainhurst badge and summons
-- Give summons to Alfred
+- Shadows **Shadow of Yharnam**
+- Grab the *Empty Phantasm Shell* at the top of the building.
+- Rom **Rom, the Vacuous Spider**
+- One Reborn, grab *Tonitrus*, *Tiny Tonitrus*, chunks and good gem first **The One Reborn**
+- Micolash **Micolash, Host of the Nightmare**
+- Drop the mother brain down, and grab the *Choir Bell*.
+- Blood Rock. Upgrade weapon to +10 **Weapon Master**
+- Wet nurse **Mergo's Wet Nurse**
+- Darkbeast Paarl. Go through the door and talk to the Djura, also get Charred Hunter set and *Rifle Spear* **Darkbeast Paarl**
+- Upper Cathedral - Grab the Ritual Blood (5) and *Cosmic Eye Watcher Badge*, kill Celestial Emissary **The Choir**, **Celestial Emissary**
+- Grab *A Call Beyond* and kill Ebrietas **Ebrietas, Daughter of the Cosmos**, **Chalice of Isz**
+- Martyr Logarius - put the crown on and get Cainhurst badge and summons **Martyr Logarius** 
+- Give summons to Alfred for the Wheel Badge
 - Go and get third cord from fake iosefka
-- Amygdala (grab the Red Jelly on the way if you didn't before)
-- Ludwig
-- Living Failures
-- Maria
-- Orphan
-- Laurence
+- Nightmare Frontier - pick up *Messenger's Gift*. **Hunter's Craft**
+- Amygdala (grab the Red Jelly on the way if you didn't before) **Amygdala**, **Chalice of Ailing Loran**
+- Ludwig **Ludwig, the Holy Blade**
+- Living Failures **Living Failures**
+- Maria **Lady Maria of the Astral Clocktower**
+- Orphan **Orphan of Kos**
+- Laurence **Laurence, the First Vicar**
+- Get all the DLC weapons. Most are pretty easy, but *Rakuyo* can be tricky. **Old Hunter's Essence**
+- Grab the good gem in the research hall. **Blood Gem Master**
 - Eat the three cords
 - Gehrman
-- Moon Presence
+- Moon Presence **Childhood's Beginning**
 
 # NG+
 
@@ -57,11 +67,11 @@ Much faster now just:
 - Drop down by the giant in the lecture hall to get the last Red Jelly
 - Micolash
 - Wet nurse
-- Gehrman
+- Gehrman **Honoring Wishes**
 
 # NG++
 
-Same as NG+, but no need for Red Jelly, and surrender to Gehrman.
+Same as NG+, but no need for Red Jelly, and surrender to Gehrman. **Yharnam Sunrise**
 
 # Chalice Dungeons
 
@@ -131,4 +141,8 @@ Need: 9 Ritual Blood (5), should have bought by now. 4 Red Jelly from Lecture Ha
 
 - Layer 1: No materials. Pthumerian Descendant
 - Layer 2: No materials. Headless Bloodletting Beast
-- Layer 3: No materials. Yharnam, Pthumerian Queen
+- Layer 3: No materials. Yharnam, Pthumerian Queen **Yharnam, Pthumerian Queen**
+
+## And finally...
+
+Buy all the weapons you've not picked up. **Hunter's Essence**, **Bloodborne**
