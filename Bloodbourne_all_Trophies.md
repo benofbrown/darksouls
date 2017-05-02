@@ -13,20 +13,25 @@ Very rough notes!
 
 ### General route
 
-- Grab Saw Spear, upgrade it a bit and kill Gascoigne **Father Gascoigne**
+- Choose Saw Cleaver and Hunter's Blunderbuss
+- Grab the Torch and the Saw Spear, upgrade it a bit and kill Gascoigne **Father Gascoigne**
 - Convert the Red Brooch to get a blood gem. **Blood Gem Contact**
+- Talk to Gilbert and get the Flamesprayer
+- Go to Old Yharnam and get the Hunter's Torch
 - BSB, more upgrading **Blood-starved Beast**, **Chalice of Pthumeru**
 - Get kidnapped, more materials and Moon rune **Rune Contact**
 - Jump off the lift half-way up in Oedon Chapel and get the Formless Oedon rune **Rune Master**
 - Find the source of the dream. Grab the third cord and *Old Hunter Bone*. **The Source of the Dream**
 - Run around Hemwick collecting materials, don't kill the boss yet though.
+- Grab the Wooden Shield
 - Kill Amelia **Vicar Amelia**
 - Run to Forbidden Woods, grab the *Tonsil Stone*, *Blue Elixir*, *Beast Raw* and open path to Iosefka's Clinic.
 - Start of DLC, run around for upgrade materials. *Blue Elixir* comes in handy here in the cave with the *Amygdalan Arm*.
 - Kill Witch of Hemwick **The Witch of Hemwick**
-- Cainhurst for materials and *Executioner's Gloves* **Cainhurst**
+- Cainhurst for materials, Reiterpallasch, Evelyn and *Executioner's Gloves* **Cainhurst**
 - Nightmare frontier for materials - Maybe try without? Only need it to go from +8 to +9. If you do go, grab the *Red Jelly* and *Augur of Ebrietas* in the Lecture Hall on the way. **Nightmare Lecture Building**
 - Upgrade weapon to +9
+- Grab the Cannon
 - Shadows **Shadow of Yharnam**
 - Grab the *Empty Phantasm Shell* at the top of the building.
 - Rom **Rom, the Vacuous Spider**
@@ -41,6 +46,7 @@ Very rough notes!
 - Martyr Logarius - put the crown on and get Cainhurst badge and summons **Martyr Logarius** 
 - Give summons to Alfred for the Wheel Badge
 - Go and get third cord from fake iosefka
+- Cleric Beast **Cleric Beast**
 - Nightmare Frontier - pick up *Messenger's Gift*. **Hunter's Craft**
 - Amygdala (grab the Red Jelly on the way if you didn't before) **Amygdala**, **Chalice of Ailing Loran**
 - Ludwig **Ludwig, the Holy Blade**
@@ -59,6 +65,7 @@ Very rough notes!
 Much faster now just:
 
 - Gascoigne
+- Grab Threaded Cane and Hunter's Pistol from the messengers
 - Buy hunters embelem from messengers
 - Amelia
 - Shadows
@@ -71,7 +78,7 @@ Much faster now just:
 
 # NG++
 
-Same as NG+, but no need for Red Jelly, and surrender to Gehrman. **Yharnam Sunrise**
+Same as NG+, but no need for Red Jelly, and surrender to Gehrman. And grab the Hunter's Axe from the Messengers **Yharnam Sunrise**
 
 # Chalice Dungeons
 
@@ -143,6 +150,19 @@ Need: 9 Ritual Blood (5), should have bought by now. 4 Red Jelly from Lecture Ha
 - Layer 2: No materials. Headless Bloodletting Beast
 - Layer 3: No materials. Yharnam, Pthumerian Queen **Yharnam, Pthumerian Queen**
 
-## And finally...
+## Weapons to buy
 
-Buy all the weapons you've not picked up. **Hunter's Essence**, **Bloodborne**
+Buy all the weapons you've not picked up.
+
+- Blade of Mercy (Crow Hunter Badge)
+- Kirkhammer (Sword Hunter Badge)
+- Repeating Pistol(Sword Hunter Badge)
+- Ludwig's Holy Blade (Sword Hunter Badge)
+- Ludwig's Rifle (Sword Hunter Badge)
+- Stake Driver(Powder Keg Hunter Badge)
+- Chikage (Cainhurst Badge)
+- Logarius' Wheel (Wheel Hunter Badge)
+- Rosmiranus (Cosmic Eye Watcher Badge)
+- Burial Blade (Old Hunter Badge)
+
+**Hunter's Essence**, **Bloodborne**
