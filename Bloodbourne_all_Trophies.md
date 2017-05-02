@@ -41,6 +41,7 @@ Very rough notes!
 - Blood Rock. Upgrade weapon to +10 **Weapon Master**
 - Wet nurse **Mergo's Wet Nurse**
 - Darkbeast Paarl. Go through the door and talk to the Djura, also get Charred Hunter set and *Rifle Spear* **Darkbeast Paarl**
+- Go up the old workshop, grab the *Radiant Sword Hunter Badge*.
 - Upper Cathedral - Grab the Ritual Blood (5) and *Cosmic Eye Watcher Badge*, kill Celestial Emissary **The Choir**, **Celestial Emissary**
 - Grab *A Call Beyond* and kill Ebrietas **Ebrietas, Daughter of the Cosmos**, **Chalice of Isz**
 - Martyr Logarius - put the crown on and get Cainhurst badge and summons **Martyr Logarius** 
@@ -156,10 +157,10 @@ Buy all the weapons you've not picked up.
 
 - Blade of Mercy (Crow Hunter Badge)
 - Kirkhammer (Sword Hunter Badge)
-- Repeating Pistol(Sword Hunter Badge)
-- Ludwig's Holy Blade (Sword Hunter Badge)
-- Ludwig's Rifle (Sword Hunter Badge)
-- Stake Driver(Powder Keg Hunter Badge)
+- Repeating Pistol (Sword Hunter Badge)
+- Ludwig's Holy Blade (Radiant Sword Hunter Badge)
+- Ludwig's Rifle (Radiant Sword Hunter Badge)
+- Stake Driver (Powder Keg Hunter Badge)
 - Chikage (Cainhurst Badge)
 - Logarius' Wheel (Wheel Hunter Badge)
 - Rosmiranus (Cosmic Eye Watcher Badge)
