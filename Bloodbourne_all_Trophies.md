@@ -36,19 +36,20 @@ Very rough notes!
 - Grab the *Empty Phantasm Shell* at the top of the building.
 - Rom **Rom, the Vacuous Spider**
 - One Reborn, grab *Tonitrus*, *Tiny Tonitrus*, chunks and good gem first **The One Reborn**
-- Micolash **Micolash, Host of the Nightmare**
+- Micolash (grab moon rune at the bottom of the spiral staircase in the fight) **Micolash, Host of the Nightmare**
 - Drop the mother brain down, and grab the *Choir Bell*.
 - Blood Rock. Upgrade weapon to +10 **Weapon Master**
-- Wet nurse **Mergo's Wet Nurse**
 - Darkbeast Paarl. Go through the door and talk to the Djura, also get Charred Hunter set and *Rifle Spear* **Darkbeast Paarl**
 - Go up the old workshop, grab the *Radiant Sword Hunter Badge*.
-- Upper Cathedral - Grab the Ritual Blood (5) and *Cosmic Eye Watcher Badge*, kill Celestial Emissary **The Choir**, **Celestial Emissary**
+- Upper Cathedral - Grab the Ritual Blood (5), Make Contact gesture and *Cosmic Eye Watcher Badge*, kill Celestial Emissary **The Choir**, **Celestial Emissary**
+- Go and visit Mother Brain, do 'Make Contact' in front of it for about a minute to get the best Moon rune. Equip it next time you're in the Hunter's Dream. Kill Mother Brain for the Living String.
 - Grab *A Call Beyond* and kill Ebrietas **Ebrietas, Daughter of the Cosmos**, **Chalice of Isz**
 - Martyr Logarius - put the crown on and get Cainhurst badge and summons **Martyr Logarius** 
 - Give summons to Alfred for the Wheel Badge
 - Go and get third cord from fake iosefka
 - Cleric Beast **Cleric Beast**
 - Nightmare Frontier - pick up *Messenger's Gift*. **Hunter's Craft**
+- Wet nurse **Mergo's Wet Nurse**
 - Amygdala (grab the Red Jelly on the way if you didn't before) **Amygdala**, **Chalice of Ailing Loran**
 - Ludwig **Ludwig, the Holy Blade**
 - Living Failures **Living Failures**
