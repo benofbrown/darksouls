@@ -54,7 +54,8 @@ Very rough notes!
 - Ludwig **Ludwig, the Holy Blade**
 - Living Failures **Living Failures**
 - Maria **Lady Maria of the Astral Clocktower**
-- Orphan **Orphan of Kos**
+- Buy and fully upgrade Ludwig's Holy Blade. There's a Blood Rock before Orphan.
+- Kill Orphan with LHB **Orphan of Kos**
 - Laurence **Laurence, the First Vicar**
 - Get all the DLC weapons. Most are pretty easy, but *Rakuyo* can be tricky. **Old Hunter's Essence**
 - Grab the good gem in the research hall. **Blood Gem Master**
@@ -159,7 +160,6 @@ Buy all the weapons you've not picked up.
 - Blade of Mercy (Crow Hunter Badge)
 - Kirkhammer (Sword Hunter Badge)
 - Repeating Pistol (Sword Hunter Badge)
-- Ludwig's Holy Blade (Radiant Sword Hunter Badge)
 - Ludwig's Rifle (Radiant Sword Hunter Badge)
 - Stake Driver (Powder Keg Hunter Badge)
 - Tonitrus (Spark Hunter Badge)
