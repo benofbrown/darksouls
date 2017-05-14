@@ -25,8 +25,9 @@ Very rough notes!
 - Get kidnapped, more materials and Moon rune.
 - Run around Hemwick collecting materials, don't kill the boss yet though.
 - Kill Amelia **Vicar Amelia**
-- Run to Forbidden Woods, grab the *Tonsil Stone*, *Blue Elixir*, *Beast Raw* and open path to Iosefka's Clinic.
-- Start of DLC, run around for upgrade materials. *Blue Elixir* comes in handy here in the cave with the *Amygdalan Arm*.
+- Run to Forbidden Woods, grab the *Tonsil Stone*, White Church set, *Blue Elixir*, *Beast Raw* and open path to Iosefka's Clinic.
+- Upgrade to +6
+- Start of DLC, run around for upgrade materials. Grab the pendent where the Laurence fight is to save time later. *Blue Elixir* comes in handy here in the cave with the *Amygdalan Arm*.
 - Get to the second lantern, grab the *Whirlygig Saw* and suicide run for the *Beasthunter Saif*.
 - Upgrade weapon to +7
 - Kill Witch of Hemwick **The Witch of Hemwick**
@@ -57,14 +58,25 @@ Very rough notes!
 - Give summons to Alfred for the Wheel Badge
 - Nightmare Frontier - pick up *Messenger's Gift*. **Hunter's Craft**
 - Amygdala **Amygdala**, **Chalice of Ailing Loran**
-- Ludwig **Ludwig, the Holy Blade**
+- Ludwig. After the fight put on the white church set and talk to Ludwig to get the *Holy Moonlight Sword*. **Ludwig, the Holy Blade**
+- Light the Research Hall lamp, then go back down in the lift to get the *Church Cannon*. Warp back to save time.
+- In the Research Hall make sure to grab the *Loch Shield*, *Underground Cell Key* and the good gem there **Blood Gem Master**.
 - Living Failures **Living Failures**
 - Maria **Lady Maria of the Astral Clocktower**
+- Grab *Simon's Bow Blade* and the *Underground Cell Inner Chamber Key*
 - Buy and fully upgrade Ludwig's Holy Blade. There's a Blood Rock before Orphan.
-- Kill Orphan with LHB **Orphan of Kos**
+- Kill Orphan with LHB, get the *Kos Parasite*. **Orphan of Kos**
 - Laurence **Laurence, the First Vicar**
-- Get all the DLC weapons. Most are pretty easy, but *Rakuyo* can be tricky. **Old Hunter's Essence**
-- Grab the good gem in the Research Hall. **Blood Gem Master**
+- Get all the DLC weapons. There should be these remaining:
+    - *Beast Cutter* - Near the start, by the Boom Hammer hunter.
+    - *Boom Hammer* - Use the first shortcut, go in to the house that's in the normal Central Yharnam map, bottom floor, be wary of trap
+    - *Piercing Rifle* - Kill the beast claws hunter past the house to get a badge, buy this from the messengers
+    - *Gatling Gun* - Kill the hunter with this in the cave.
+    - *Church Pick* - After the Ludwig lamp, Underground Cell Key required
+    - *Fist of Gratia* - After the Ludwig lamp
+    - *Bloodletter* - After the Ludwig lamp, Underground Cell Inner Chamber Key required
+    - *Rakuyo* - Down the well in the Fishing Hamlet, use Shaman Bone Blades
+- **Old Hunter's Essence**
 - Eat the three cords
 - Gehrman
 - Moon Presence **Childhood's Beginning**
