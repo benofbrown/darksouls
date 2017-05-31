@@ -57,6 +57,8 @@ Very rough notes!
 - Martyr Logarius - put the crown on and get Cainhurst badge and summons **Martyr Logarius**
 - Give summons to Alfred for the Wheel Badge
 - Nightmare Frontier - pick up *Messenger's Gift*. **Hunter's Craft**
+<<<<<<< HEAD
+- Make sure you get 14 Arc before Orphan of Kos.
 - Amygdala **Amygdala**, **Chalice of Ailing Loran**
 - Ludwig. After the fight put on the white church set and talk to Ludwig to get the *Holy Moonlight Sword*. **Ludwig, the Holy Blade**
 - Light the Research Hall lamp, then go back down in the lift to get the *Church Cannon*. Warp back to save time.
@@ -64,8 +66,8 @@ Very rough notes!
 - Living Failures **Living Failures**
 - Maria **Lady Maria of the Astral Clocktower**
 - Grab *Simon's Bow Blade* and the *Underground Cell Inner Chamber Key*
-- Buy and fully upgrade Ludwig's Holy Blade. There's a Blood Rock before Orphan.
-- Kill Orphan with LHB, get the *Kos Parasite*. **Orphan of Kos**
+- Fully upgrade the Holy Moonlight Sword.
+- Kill Orphan with HMB, get the *Kos Parasite*. **Orphan of Kos**
 - Laurence **Laurence, the First Vicar**
 - Get all the DLC weapons. There should be these remaining:
     - *Beast Cutter* - Near the start, by the Boom Hammer hunter.
@@ -190,16 +192,17 @@ Need: 9 Ritual Blood (5), should have bought by now. 4 Red Jelly from Lecture Ha
 
 Buy all the weapons you've not picked up.
 
+- Burial Blade (Old Hunter Badge)
 - Blade of Mercy (Crow Hunter Badge)
 - Kirkhammer (Sword Hunter Badge)
-- Repeating Pistol (Sword Hunter Badge)
-- Ludwig's Rifle (Radiant Sword Hunter Badge)
+- Ludwig's Holy Blade (Radiant Sword Hunter Badge)
 - Stake Driver (Powder Keg Hunter Badge)
 - Tonitrus (Spark Hunter Badge)
 - Chikage (Cainhurst Badge)
 - Logarius' Wheel (Wheel Hunter Badge)
+- Repeating Pistol (Sword Hunter Badge)
+- Ludwig's Rifle (Radiant Sword Hunter Badge)
 - Flamesprayer (Radiant Sword Hunter Badge)
 - Rosmiranus (Cosmic Eye Watcher Badge)
-- Burial Blade (Old Hunter Badge)
 
 **Hunter's Essence**, **Bloodborne**
