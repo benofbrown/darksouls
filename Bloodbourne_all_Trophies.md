@@ -23,16 +23,18 @@ Very rough notes!
 - Drop down, get the Beast Rune, open up the cathedral area.
 - Grab the Wooden Shield
 - Get kidnapped, more materials and Moon rune.
-- Run around Hemwick collecting materials, don't kill the boss yet though.
+- Upgrade weapon, should be able to get to +4 or +5.
+- Run around Hemwick collecting materials. Kill Witches of Hemwick. **The Witch of Hemwick**
+- Upgrade weapon again, should be +5 or +6.
+- Equip Moon rune.
+- Go to Cathedral Ward. Talk to Eileen and kill Henryk.
 - Kill Amelia **Vicar Amelia**
 - Run to Forbidden Woods, grab the *Tonsil Stone*, White Church set, *Blue Elixir*, *Beast Raw* and open path to Iosefka's Clinic.
-- Upgrade to +6
+- Upgrade to +6 if not there already.
+- Cainhurst for materials, Reiterpallasch, Evelyn and *Executioner's Gloves* **Cainhurst**
+- Upgrade weapon to +7
 - Start of DLC, run around for upgrade materials. Grab the pendent where the Laurence fight is to save time later. *Blue Elixir* comes in handy here in the cave with the *Amygdalan Arm*.
 - Get to the second lantern, grab the *Whirlygig Saw* and suicide run for the *Beasthunter Saif*.
-- Upgrade weapon to +7
-- Kill Witch of Hemwick **The Witch of Hemwick**
-- Equip the Moon Rune
-- Cainhurst for materials, Reiterpallasch, Evelyn and *Executioner's Gloves* **Cainhurst**
 - Upgrade weapon to +8
 - Run though the woods, grabbing the Cannon on the way.
 - Shadows **Shadow of Yharnam**
@@ -42,29 +44,30 @@ Very rough notes!
 - Upgrade weapon to +9, put in good gems.
 - Drop to first floor of the Lecture building, grab the *Red Jelly* and *Augur of Ebrietas*, head to Nightmare Frontier for the lamp. **Nightmare Lecture Building**
 - Micolash (grab moon rune at the bottom of the spiral staircase in the fight) **Micolash, Host of the Nightmare**
+- Wet nurse **Mergo's Wet Nurse**
+- Use some Madman's Knowledge and your 40 or so insight to buy a Blood Rock from the messengers
 - Drop the mother brain down, and grab the *Choir Bell*.
 - Blood Rock. Upgrade weapon to +10 **Weapon Master**
 - Go up the old workshop, grab the *Radiant Sword Hunter Badge*.
 - Upper Cathedral - Grab the Ritual Blood (5), Make Contact gesture and *Cosmic Eye Watcher Badge*. **The Choir**
 - Go and visit Mother Brain, do 'Make Contact' in front of it for about a minute to get the best Moon rune. Equip it next time you're in the Hunter's Dream. Kill Mother Brain for the Living String.
 - Darkbeast Paarl. Go through the door and talk to the Djura, also get Charred Hunter set and *Rifle Spear* **Darkbeast Paarl**
-- Kill Gilbert for the Clawmark run, and get third cord from fake iosefka. Use a Brave Hunter's mark to save time
+- Kill Gilbert for the Clawmark run, and get third cord from fake Iosefka. Use a Brave Hunter's mark to save time
 - Cleric Beast **Cleric Beast**
-- Wet nurse **Mergo's Wet Nurse**
-- Use some Madman's Knowledge and your 40 or so insight to buy a Blood Rock from the messengers
 - Kill Celestial Emissary **Celestial Emissary**
 - Grab *A Call Beyond* and kill Ebrietas **Ebrietas, Daughter of the Cosmos**, **Chalice of Isz**
 - Martyr Logarius - put the crown on and get Cainhurst badge and summons **Martyr Logarius**
 - Give summons to Alfred for the Wheel Badge
 - Nightmare Frontier - pick up *Messenger's Gift*. **Hunter's Craft**
-<<<<<<< HEAD
 - Make sure you get 14 Arc before Orphan of Kos.
 - Amygdala **Amygdala**, **Chalice of Ailing Loran**
+- Put Eileen down :( Grab the *Crow Hunter Badge*.
 - Ludwig. After the fight put on the white church set and talk to Ludwig to get the *Holy Moonlight Sword*. **Ludwig, the Holy Blade**
 - Light the Research Hall lamp, then go back down in the lift to get the *Church Cannon*. Warp back to save time.
-- In the Research Hall make sure to grab the *Loch Shield*, *Underground Cell Key* and the good gem there **Blood Gem Master**.
+- In the Research Hall make sure to grab the *Loch Shield*, and the *Underground Cell Key*.
 - Living Failures **Living Failures**
 - Maria **Lady Maria of the Astral Clocktower**
+- Grab the gem in the building by the ladder shortcut. **Blood Gem Master**
 - Grab *Simon's Bow Blade* and the *Underground Cell Inner Chamber Key*
 - Fully upgrade the Holy Moonlight Sword.
 - Kill Orphan with HMB, get the *Kos Parasite*. **Orphan of Kos**
@@ -80,6 +83,16 @@ Very rough notes!
     - *Rakuyo* - Down the well in the Fishing Hamlet, use Shaman Bone Blades
 - **Old Hunter's Essence**
 - Eat the three cords
+- Quick badge checklist:
+    - Cainhurst Badge
+    - Cosmic Eye Watcher Badge
+    - Crow Hunter Badge
+    - Old Hunter Badge
+    - Powder Keg Hunter Badge
+    - Radiant Sword Hunter Badge
+    - Spark Hunter Badge
+    - Sword Hunter Badge
+    - Wheel Hunter Badge
 - Gehrman
 - Moon Presence **Childhood's Beginning**
 
