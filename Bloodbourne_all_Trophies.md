@@ -84,15 +84,15 @@ Very rough notes!
 - **Old Hunter's Essence**
 - Eat the three cords
 - Quick badge checklist:
-    - Cainhurst Badge
-    - Cosmic Eye Watcher Badge
-    - Crow Hunter Badge
-    - Old Hunter Badge
+    - Saw Hunter Badge
     - Powder Keg Hunter Badge
-    - Radiant Sword Hunter Badge
+    - Crow Hunter Badge
     - Spark Hunter Badge
     - Sword Hunter Badge
+    - Radiant Sword Hunter Badge
     - Wheel Hunter Badge
+    - Cosmic Eye Watcher Badge
+    - Cainhurst Badge
 - Gehrman
 - Moon Presence **Childhood's Beginning**
 
@@ -209,9 +209,9 @@ Buy all the weapons you've not picked up.
 - Blade of Mercy (Crow Hunter Badge)
 - Kirkhammer (Sword Hunter Badge)
 - Ludwig's Holy Blade (Radiant Sword Hunter Badge)
+- Chikage (Cainhurst Badge)
 - Stake Driver (Powder Keg Hunter Badge)
 - Tonitrus (Spark Hunter Badge)
-- Chikage (Cainhurst Badge)
 - Logarius' Wheel (Wheel Hunter Badge)
 - Repeating Pistol (Sword Hunter Badge)
 - Ludwig's Rifle (Radiant Sword Hunter Badge)
