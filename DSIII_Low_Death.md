@@ -1,12 +1,12 @@
 # Dark Souls III - Low Death run
 
-This is my current strategy for finishing the game with as few deaths as possible. On the 22nd October 2016 I managed a run with 0 deaths.
+This is my current strategy for finishing the game with as few deaths as possible. On the 22nd October 2016 I managed a run with 0 deaths. Since then there have been several patches to the game which have reduced the viability of my strategy, so I have switched to a new one. The previous strategy can be seen in the release 'pre-1.12'.
 
-The general strategy is to use a Raw weapon for most of the run, as it does decent damage and we can then concentrate on levelling up Vigour to give us a lot of HP. Later in the run the damage isn't as good, so we switch to a Luck/Bleed build using Anri's Straight Sword.
+The general strategy is to use the *Sellsword Twinblades*, levelling up Vigour and Dexterity.
 
 ## Character Creation
 
-- Start as *Warrior*.
+- Start as *Mercenary*.
 - Choose the *Black Firebombs*.
 
 ## Phase I - Preparation
@@ -18,28 +18,22 @@ This phase takes around 45 minutes, and can be a little scary at times. If you d
 - Make the jump over by the tree and grab the *Titanite Shard*.
 - Drop down, killing the crossbow guy and get the *Firebombs*.
 - Kill all the mobs around there.
-- Kill Iudex Gundyr. You can hit him five times as he wakes up. After that you want to parry/riposte him twice. If you hit him between parries he'll hit the second phase so you'll only be able to do one parry, so avoid hitting him until you get the second one in. Then stick close to his left leg and hit him a lot.
+- Kill Iudex Gundyr. You can hit him with four L1 hits as he wakes up. After that you want to parry/riposte him twice. If you hit him between parries he'll hit the second phase so you'll only be able to do one parry, so avoid hitting him until you get the second one in. Then stick close to his left leg and hit him a lot.
 - Unequip the *Ashen estus flask*, and all the items on your fast-menu whilst waiting for the door to open.
 - Kill all the mobs outside *Firelink Shrine*, but leave *Sword Master* well alone.
 - Grab the other *Homeward Bone* and *Embers* around the outside of the shrine, and the *East-West Shield*.
-- Go to the *Shrine Handmaiden* and sell all the soul items and the *East-West Shield*.
-- Buy the following items:
-    - 1 x *Prism Stone*
-    - 1 x *Large Leather Shield*
-- Run up and out, grab the soul item and do the Tree skip
+- Go in the shrine, run up and out, grab the soul item and do the Tree skip
 - Drop the following for the crows:
     - 1 x *Firebomb*
     - 1 x *Black Firebomb*
-    - 1 x *Prism Stone*
-    - 1 x *Large Leather Shield*
 - This will give you:
     - 1 x *Large Titanite Shard*
     - 1 x *Titanite Chunk*
-    - 2 x *Twinkling Titanite*
 - Grab the *Estus Shard*.
 - Go through the illusory wall and get, then equip the *Silver Serpent Ring*
-- Go back down inside the shrine, talk to *Andre* and allot all your estus to be healing, and upgrade the Estus Flask.
-- Use the soul item you grabbed outsied, talk to the *Firekeeper* and level up *Dexterity* to 10 and *FAI* to 12. If you don't have enough souls sell a *Homeward Bone*.
+- Go back down inside the shrine, talk to the *Shrine Handmaiden* and sell all the soul items, the *Embers*, and the *East-West Shield*.
+- Talk to *Andre* and allot all your estus to be healing, and upgrade the Estus Flask.
+- Talk to the *Firekeeper* and level up *Vigour* as much as you can.
 - Embed the coil and warp to the *High Wall of Lothric*
 
 ### High Wall of Lothric
@@ -50,26 +44,18 @@ This phase takes around 45 minutes, and can be a little scary at times. If you d
 - Jump over to the other side, go through the door, stay on the raised path on the left and kill the mob there.
 - Grab the soul item, then dodge the Lothric Knight and run up to, and then past, the *Tower on the Wall* bonfire.
 - Grab the *Titanite Shard* there and go back to the bonfire, light it and rest at it if necessary.
-- Go back downstairs, grab the *Firebombs* on the beam and drop down to the lower level. I like to plunge attack the mob here. Head outside, and kill the mobs who climb over the walls, then rush the one who changes to a Pus of Man, killing them before they turn (takes two hits).
-- Grab the *Firebombs* on the roof.
-- Kill the *Crystal Lizard* for a *Raw Gem* and grab the soul item there.
-- Drop down to the next level, kill the arbalist and grab the *Black Firebombs*.
-- Backtrack slightly in to the building you were on top of, and head to the left. Kill the arbelist at the top of the stairs, then turn around and kill the lantern wielder behind you. Move in to the next room killing the bandit on the left and grab the *Titanite Shard*. Go back down the stairs, smash the pots and kill the mob behind them, and grab the *Undead Hunter Charm*.
+- Go back downstairs, grab the *Firebombs* on the beam and drop down to the lower level. I like to plunge attack the mob here. Head outside, grab the soul item and kill the mobs who climb over the walls.
+- Grab the *Firebombs* on the roof, and the soul item there.
+- Drop down to the next level, and go in to the building there and take the first left.
+- Kill the arbalist at the top of the stairs, then turn around and kill the lantern wielder behind you. Move in to the next room killing the bandit on the left and grab the *Titanite Shard*. Go back down the stairs, smash the pots and kill the mob behind them, and grab the *Undead Hunter Charm*.
 - Dodge past the Lothric Knight with the spear, and sprint in to the corridor. A mob will follow you, turn around and kill it.
-- Carefully clear out this room. Start from the top and get rid of the thief and the firebomb guy. Pick up the *Silver Kite Shield* and equip it. 
-- Go down the stairs and aggro, then kill the dog. Next go for the greataxe guy to the right near the balcony, then the Halbard mob, followed by the other greataxe mob then finally the dog near the *Cell Key*. Grab the *Cell Key*, *Estus Shard* and *Titianite Shard* before heading back upstairs, and rolling through the barrels on the left before the room with the Lothric Knight in.
-- Run to the end of this platform, grab the *Green Blossoms*, and roll through yet more barrels. Drop down again, and grab then equip the *Astora Straight Sword*.
-- Drop down through the gap in the fence, then go back upstairs and backtrack all the way up the ladder to the room below the bonfire.
+- Carefully clear out this room. Start from the top and get rid of the thief and the firebomb guy. Pick up the *Silver Kite Shield*.
+- Go down the stairs and aggro, then kill the dog. Next go for the greataxe guy to the right near the balcony, then the Halbard mob, followed by the other greataxe mob then finally the dog near the *Cell Key*. Grab the *Cell Key*, *Estus Shard* and *Titianite Shard* before using a *Homeward Bone* to go back to the bonfire.
 - Drop down through the hole in the floor, kill the halberd mob, go down the stairs and kill the two mobs there. Rescue *Greirat* and equip the *Blue Tearstone Ring*.
-- Backtrack to the building where the Pus of Man erupts and drop down. Carefully drop down to the courtyard, and run out of the gate.
+- Backtrack to the building where the Pus of Man erupts and drop down. Grab the *Black Firebombs* before carefully dropping down to the courtyard, grabbing the *Embers* and running out of the gate.
 - Kill the crossbowman on the right, turn around and kill the other mob. Grab the soul item there and make your way to the Cathedral, talking to *Emma* and getting the *Small Lothric Banner*.
-- Backtrack to where the crossbowman was, run straight ahead and take the lift up. Open the gate and run back to the *High wall of Lothric* bonfire. Kill any dogs that follow you up there, then warp to *Firelink Shrine*.
-- Sell all your soul items to the *Shrine Handmaiden*.
-- Make your way to *Andre*, infuse the sword with the *Raw Gem* and upgrade it to *Raw Astora Sword +1*. Also reinforce estus.
-- Buy a *Dagger* and a *Torch*. Level *Vigour* if there's enough souls left.
-- Warp back to *High Wall of Lothric*.
-- Use the short cut and go and kill *Vordt of the Boreal Valley* using a *Gold Pine Resin* buff. Should be easy.
-- Rest at the bonfire after killing him, then fly to the *Foot of the Wall*.
+- Run back the way you came, then down the stairs to kill *Vordt of the Boreal Valley* using a *Gold Pine Resin* buff. Should be easy.
+- Fly to the *Foot of the Wall*.
 
 ### Undead Settlement
 
@@ -77,9 +63,14 @@ This phase takes around 45 minutes, and can be a little scary at times. If you d
 - Get the *Alluring Skulls*, *Homeward Bones* and talk to *Yoel of Londor* until he disappears.
 - Get *Loretta's Bone*, then grab the *Estus Shard* behind the evangelist, run to the left and grab the *Titanite Shard*. Now run by the cliff edge and go over the bridge.
 - Grab the soul item in the stables after killing the mobs. Kill the thief that drops down (should take three hits) and open the door.
-- Bait the firebomb throwers in to blowing up the barrels, then drop down. Rest at the *Cliff Underside* bonfire, then backtrack and kill the mobs down there before grabbing the *Titanite Shard* by the last one of them. By resting at the bonfire first you gain an advantage as the mobs aren't aggroed, and also don't have to wait as long for the mobs to disperse in the next step.
+- Bait the firebomb throwers in to blowing up the barrels, then drop down. Rest at the *Cliff Underside* bonfire, backtrack and kill the mobs down there before grabbing the *Titanite Shard* by the last one of them. Warp back to *Firelink Shrine*.
+- Talk to the handmaiden, and sell all the soul items, *Embers* and weapons/shields you're not using. Buy a *Dagger* and a *Torch*.
+- Talk to Andre, upgrade the *Sellsword Twinblades* to +2. Give him both *Estus Shards* you have.
+- Talk to Greirat, and give him *Loretta's Bone*.
+- Talk to the Firekeeper, and level Vigour more.
+- Warp back to *Cliff Underside*.
 - **[Potential Danger]** Go around towards the small bridge, and wait for the mobs to disperse. Run across it, and dodge the pot throwers. Keep running until you bump in to *Siegward of Catarina*. **Make sure you talk to Siegward!**
-- Send the lift down, then take it up and make friends with the giant, before going back down, then sending it up, and taking it down to the bottom.
+- Send the lift down, then take it up and make friends with the giant and grabbing the soul item up there, before going back down, then sending it up, and taking it down to the bottom.
 - Run past the Outrider Knight, open the door and rest at the *Road of Sacrifices* bonfire.
 
 ### Road of Sacrifices
@@ -88,113 +79,110 @@ This phase takes around 45 minutes, and can be a little scary at times. If you d
 - Run down to the *Halfway Fortress* bonfire, chat to *Anri* and *Horace*.
 - Kill the first two mobs with the tree stumps and drop down to the left to find another *Titanite Shard*. Drop down again near here for yet another *Titanite Shard*.
 - Go around the left hand edge of the area, carefully killing the four mobs. Drop down for an *Estus Shard*.
-- **[Potential Danger]** Kill the crucified mob and head to the *Crucifixion Woods* bonfire, grabbing the soul item on the way.
-- **[Potential Danger]** Go to the edge of the water, drop down when it's low and run to the other side, grabbing the *Fallen Knight* set. Carefully run past the gank squad, down the ladder and light the *Farron Keep* bonfire.
+- **[Potential Danger]** Kill the crucified mob and head to the *Crucifixion Woods* bonfire, grabbing the *Ember* and soul item on the way.
+- **[Potential Danger]** Go to the edge of the water, drop down when it's low and run to the other side, grabbing the *Fallen Knight* set. Grab the soul item nearby.
+- Carefully run past the gank squad, down the ladder and light the *Farron Keep* bonfire.
 
 ### Farron Keep
 
+- Go out and slightly to the right. Use the *Dagger*'s quickstep and head to the base of the slope you can see. Run up the steps and extinguish the flame. Pick up the *Homeward Bone* here and backtrack to the bonfire.
 - Go out and to the left slightly, don't sprint until near the swamp edge to minimise poison risk.
 - Grab the *Estus Shard*, and just after it a *Titanite Shard*.
 - Go up the hill carefully, there are two ghrus at the top. Kill them and extinguish the flame.
-- **[Potential Danger]** Kill the jumping ghru. Grab the *Titanite Shard* near him, and the other *Titanite Shard* on the way up the hill.
+- Walk around the jumping ghru. Grab the *Titanite Shard* near the wall, but leave the other well alone (it will aggro the ghru).
 - Kill the ghru at the top of the stairs, and grab the *Purple Moss Clump* before extinguishing the flame.
 - Run to the *Keep Ruins* bonfire and rest.
-- Head down the ramp to the domed building on the right.
+- Head down the ramp to the domed building on the right, drop off the side of the ramp near the top to grab a *Titanite Shard*.
 - Grab the *Undead Bone Shard* near the slugs, then go up the ladder. Go around the side of the building and kill the Crystal Lizard for a *Twinkling Titanite*. Go through the illusory wall to get the *Dreamchaser's Ashes*.
 - Take the lift up, but don't fight the Stray Demon. Instead go the other way, drop down and go around the side, killing the two Crystal Lizards there for two *Large Titanite Shards*. Also get the *Dragoncrest Shield* and start using it.
 - Homeward Bone to *Firelink Shrine*. I used to take the lift back down but the drop from the gate can kill you if you don't get it quite right so it's safter to warp out.
-- Give the *Dreamchaser's Ashes* to the *Shrine Handmaiden* and sell her all your soul items.
-- Go to *Andre* and upgrade your sword to *Raw Astora Sword +4*. Also use the three *Estus Shards* to reinforce your estus.
-- Go to the *Firekeeper* and level up *Vigour* as much as you can.
-- Go to *Yoel of Londor* and choose the *Draw Out True Strength* option, also levelling up *Vigour*.
+- Talk to *Sirris of the Sunset Realm*.
+- Give the *Dreamchaser's Ashes* to the *Shrine Handmaiden* and sell her all your soul items, *Embers*, and unused equipment.
+- Go to *Andre* and upgrade your weapon to *Sellsword Twinblades +4*. Also use the two *Estus Shards* to reinforce your estus.
+- Go to the *Firekeeper* and level up *Vigour* as much as you can. If it hits 25, then start levelling *Dexterity* instead.
 - Burn the *Undead Bone Shard* that you have.
+- Warp to *Cliff Underside*.
+- Go down to where the rats are and light the *Dilapidated Bridge* bonfire. Also equip the *Bloodbite Ring*.
+- Kill *Holy Knight Hodrick*.
+- Backtrack to the right of the bonfire (but left of the main path) and kill the crystal lizard there for a *Sharp Gem*.
+- Go through the graveyard, pick up the *Mortician's Ashes* and *Undead Bone Shard*.
+- Open the short cut door, then kill the *Curse-rotted Greatwood*.
+- Warp to *Keep Ruins*, then run to *Farron Keep Perimeter* and light it.
+- Keep going past the bonfire, kill the giant Crystal Lizard, open the door and grab the *Sellsword Twinblades*, *Sellsword Set* and *Farron Coal*.
+- Use a Homeward Bone to warp back to Firelink.
+- Talk to the handmaiden and sell the *Sellsword Twinblade* you just picked up, and the duplicate *Sellsword Set*.
+- Talk to Andre, give him the *Farron Coal* and Sharp infuse the *Sellsword Twinblade +4*.
+- Talk to *Grierat* to get the *Curl Up* gesture.
+- Burn the two *Undead Bone Shards*.
+- Go to *Yoel of Londor* and choose the *Draw Out True Strength* option, also levelling up *Dexterity* (you should have 25 Vigour already).
 
 ### Point of no return
 
 Once we've got the *Dark Sigil* from *Yoel of Londor* we will gain one Hollowing with each death. As we now have a working death counter, this is the point at which we don't need to reset on death, although a death now would be disappointing.
 
+### Shield of Want
+
+From now on you either want to have this shield equipped all the time, or switch to it quickly after a boss fight for maximum souls. You can't use it as a shield as you won't have enough *Strength*, but I don't use it as a shield anyway.
+
 ## Phase II: Easy mode
 
 This phase is pretty easy as you're quite OP by this point, but there are a couple of points that can be quite tricky. It generally takes me around an hour and 45 minutes. The Raw Astora Sword +4 does 229 AR, and you should have 24 Vigour by now. Along with 9 upgraded Estus flasks it shouldn't be too hard.
 
-- Warp to *Cliff Underside*.
-- Go down to where the rats are and light the *Dilapidated Bridge* bonfire. Also equip the *Bloodbite Ring*.
-- Kill *Holy Knight Hodrick*.
-- Go through the graveyard, pick up the *Mortician's Ashes* and *Undead Bone Shard*.
-- Open the short cut gate, then kill the *Curse-rotted Greatwood*.
 - Warp to *Farron Keep*.
-- Use the quickstep from the dagger to get past the basilisks and run up the ramp, killing the jumping ghru.
-- Extinguish the last flame, cure your poison, kill *Yellowfinger Heysel* and homeward bone to *Firelink Shrine*.
-- Talk to *Sirris of the Sunset Realm*.
-- Talk to *Greirat* and give him *Loretta's Bone*.
-- Sell the Deacons and Crystal Sages souls, and any other soul items.
-- Give the handmaiden the *Mortician's Ashes*, *Paladin's Ashes*, and *Patches' Ashes*.
-- Buy a *Gold Pine Resin*.
-- Level *Vigour* if less than 40, else level *Endurance*
-- Go to *Andre* and reinforce estus.
-- Burn the two *Undead Bone Shards*.
-- Warp to *Keep Ruins*, then run to *Farron Keep Perimeter* and light it.
 - Kill the *Abyss Watchers* using the *Gold Pine Resin*.
 
 ### Catacombs of Carthus
 
-- Grab the 2 x *Carthus Rouge*.
-- Head back the other way and drop down.
+- Head to the right and drop down.
 - Kill the hat-wearing skeleton and pick up the *Undead Bone Shard* the ball of skeletons drops.
 - Run to the bonfire and light it. Don't rest if you don't have to.
-- Grab the *Grave Warden Ashes*.
 - Cut down the bridge, and go down it.
 - Run to the *Abandoned Tomb* bonfire, light it and rest.
 - Pick up three *Large Titanite Shards* then go in to the cave.
 - Kill the two crystal lizards for a *Twinkling Titanite* and a *Titanite Chunk*, grab the two *Large Titanite Shards* and the *Yellow Bug Pellets*.
 - Run to the *Demon Ruins* bonfire, picking up the *Shield of Want*, *Speckled Stoneplate Ring* and two *Large Titanite Shards* on the way.
 - Warp to *Firelink Shrine*.
-- Talk to *Greirat* again, he'll give you the *Curl Up* gesture.
-- Sell all soul items, including boss souls.
-- Hand in the *Grave Warden Ashes*.
-- Buy a *Gold Pine Resin*.
-- Upgrade your sword to *Raw Astora Sword +7*.
-- Level up *Vigour* if less than 40 or if *Endurance* has hit 30, otherwise level *Endurance*.
-- Talk to Anri.
+- Talk to *Greirat* again, tell him to go raiding.
+- Sell all soul items, including boss souls, and any equipment you're not using. Also sell the *Twinkling Titanites*.
+- Upgrade your sword to *Sharp Sellsword Twinblades +7*.
+- Level up. Go in 5 level blocks, first *Vigour* then *Dexterity*.
 - Warp to *Road of Sacrifices*, take the elevator up and kill the Fire Demon with the *Shield of Want* equipped. Grab the *Choranthy Ring* on the way down and run to the *Pit of Hollows* bonfire.
 - Warp to *Crucifixion Woods*.
 - Grab the *Blue Bug Pellet* on the way to the *Crystal Sage*. It's in the staircase going down opposite *Orbeck of Vinheim*.
-- Kill the *Crystal Sage* with a *Carthus Rouge*.
+- Kill the *Crystal Sage*.
 - Kill the two crystal lizards after that for two *Twinkling Titanites*.
 - Run to the *Cathedral of the Deep* bonfire.
 
 ### Cathedral of the Deep
 
 - Kill the two bandits and get the *Paladin's Ashes*.
-- Run towards the *Cleansing Chapel* bonfire, but don't open the doors yet.
+- Run towards the *Cleansing Chapel* bonfire, open the doors, but don't rest yet. Equip the torch and *Alluring Skulls*.
 - Kill the mobs by the cross and get the *Estus Shard*.
-- Equip the *Torch* ready to use, and go around the side of the cathedral. Kill two crystal lizards for two *Twinkling Titanites*.
-- Drop down through the window of the *Cleansing Chapel* and open the doors. If you have plenty of estus then don't enter yet, otherwise go in and rest.
 - Run through the graveyard, dropping down to the right after a bit, then run past the slow mobs and take out the Grave Warden.
 - Get the *Undead Bone Shard* and soul items.
-- Equip the *Alluring Skulls* and use one near the small room that the thieves jump out of.
+- Use an *Alluring Skull*  near the small room that the thieves jump out of.
 - Open the short cut down to the *Cleansing Chapel* and rest.
 - Equip the *Dagger* in place of the *Torch*.
 - Go back up, grab *Lloyd's Sword Ring* then drop down and kill the giant, collecting the *Large Titanite Shard* he drops, and the *Maiden* set.
-- Kill the mob, and then *Longfinger Kirk*, and then quickstep past the other giant, picking up the *Drang Set* and a *Pale Tongue* on the way.
+- Kill the mob, and then *Longfinger Kirk*, and then quickstep past the other giant.
 - Open the final short cut, and kill *Patches*. This saves a lot of souls and quite a bit of trouble.
-- Go over the bridge and light the *Rosaria's Bedchamber* bonfire. Warp to *Cleansing Chapel* and rescue *Siegward* from the well.
+- Go over the bridge and light the *Rosaria's Bedchamber* bonfire. 
 - Warp back to *Rosaria's Chamber*.
 - Kill the *Deacons of the Deep*. Fight as normal in the first phase, in the second buff with a *Gold Pine Resin* then throw an *Alluring Skull* and kill the main dude when the others are distracted.
 - Grab the *Archdeacon set*.
+- Warp to *Cleansing Chapel* and rescue *Siegward* from the well.
+- Warp to *Firelink Shrine*, sell all the stuff you can and level up *Endurance* to 12 then continue with the usual levelling strategy.
 - Warp to *Catacombs of Carthus*.
 - Kill *High Lord Wolnir* with the *Shield of Want* equipped.
 
-### Shield of Want
-
-From now on you either want to have this shield equipped all the time, or switch to it quickly after a boss fight for maximum souls. You can't use it as a shield as you won't have enough *Strength*, but I don't really use it anyway. In times I do need a shield I either use the *Target Shield* for parrying or *Dragon Crest Shield* for blocking dogs etc.
 
 ### Irithyll of the Boreal Valley
 
-- Kill Sulyvahn's Beast (carefully) and rest at the *Central Irithyll* bonfire.
+- Kill Sulyvahn's Beast (carefully) and rest at the *Central Irithyll* bonfire. Equip the *Pontiff's Right Eye Ring*.
 - Backtrack to Sirris' summon sign on the bridge and help her kill *Creighton The Wanderer*.
 - Warp to Firelink Shrine and get the *Silvercat Ring*.
-- Talk to *Greirat*, agree that he should go and pillage Undead Settlement then warp back to *Central Irithyll*.
+- Talk to *Greirat*, buy the *Target Sheild*.
+- Warp to *Central Irithyll*.
 - **[Potential Danger]** Run to the *Church of Yorshka* bonfire.
 - Backtrack slowly to kill the Crystal Lizard for a *Twinkling Titanite*.
 - Go out the other door near the bonfire, kill the two Irithyllian Slaves then head around to the right to be invaded by Creighton. Kill Creighton.
@@ -209,15 +197,13 @@ From now on you either want to have this shield equipped all the time, or switch
 - Buy a couple of *Human Pine Resins*.
 - Level up as usual.
 - Burn the *Undead Bone Shard*, upgrade the estus.
-- Make sure you have ~20 Firebombs, and a *Gold Pine Resin*.
-- **Talk to Anri if you haven't already!**
 
 ## Phase III: Getting tougher
 
 This phase has some tougher bosses in. It's also where we switch to a luck based build for a better AR and bleed stats. It's fairly short and takes around 30 minutes.
 
 - Warp to *Vordt of the Boreal Valley* bonfire.
-- Start the Dancer fight, homeward out, then restart the fight. I just seem to handle it better that way. Use a *Human Pine Resin* for extra damage.
+- Start the Dancer fight. Use a *Human Pine Resin* for extra damage.
 - Run to the *Lothric Castle* bonfire, (*Alluring Skulls* help here) and light it.
 - Drop down, kill the big knight and get the *Estus Shard* in the Consumed King's Garden. Homeward out.
 - Run to the *Dragon Barracks* bonfire.
