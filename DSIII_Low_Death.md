@@ -120,10 +120,6 @@ This phase takes around 45 minutes, and can be a little scary at times. If you d
 
 Once we've got the *Dark Sigil* from *Yoel of Londor* we will gain one Hollowing with each death. As we now have a working death counter, this is the point at which we don't need to reset on death, although a death now would be disappointing.
 
-### Shield of Want
-
-From now on you either want to have this shield equipped all the time, or switch to it quickly after a boss fight for maximum souls. You can't use it as a shield as you won't have enough *Strength*, but I don't use it as a shield anyway.
-
 ## Phase II: Easy mode
 
 This phase is pretty easy as you're quite OP by this point, but there are a couple of points that can be quite tricky. It generally takes me around an hour and 45 minutes.
@@ -146,7 +142,8 @@ This phase is pretty easy as you're quite OP by this point, but there are a coup
 - Sell all soul items, including boss souls, and any equipment you're not using. Also sell the *Twinkling Titanites*.
 - Upgrade your sword to *Sharp Sellsword Twinblades +7*.
 - Level up. Go in 10 level blocks, first *Vigour* then *Dexterity*.
-- Warp to *Road of Sacrifices*, take the elevator up and kill the Fire Demon with the *Shield of Want* equipped. Grab the *Choranthy Ring* on the way down and run to the *Pit of Hollows* bonfire.
+- **Equip the Shield of Want**
+- Warp to *Road of Sacrifices*, take the elevator up and kill the Fire Demon. Grab the *Choranthy Ring* on the way down and run to the *Pit of Hollows* bonfire.
 - Warp to *Crucifixion Woods*.
 - Grab the *Blue Bug Pellet* on the way to the *Crystal Sage*. It's in the staircase going down opposite *Orbeck of Vinheim*.
 - Kill the *Crystal Sage*.
@@ -172,7 +169,7 @@ This phase is pretty easy as you're quite OP by this point, but there are a coup
 - Warp to *Cleansing Chapel* and rescue *Siegward* from the well.
 - Warp to *Firelink Shrine*, sell all the stuff you can and level up *Endurance* to 12 then continue with the usual levelling strategy.
 - Warp to *Catacombs of Carthus*.
-- Kill *High Lord Wolnir* with the *Shield of Want* equipped.
+- Kill *High Lord Wolnir*.
 
 
 ### Irithyll of the Boreal Valley
@@ -180,7 +177,7 @@ This phase is pretty easy as you're quite OP by this point, but there are a coup
 - Kill Sulyvahn's Beast (carefully) and rest at the *Central Irithyll* bonfire. Equip the *Pontiff's Right Eye Ring*.
 - Backtrack to Sirris' summon sign on the bridge and help her kill *Creighton The Wanderer*.
 - Warp to Firelink Shrine and get the *Silvercat Ring*.
-- Talk to *Greirat*, buy the *Target Sheild*.
+- Talk to *Greirat*, buy the *Target Shield*.
 - Warp to *Central Irithyll*.
 - **[Potential Danger]** Run to the *Church of Yorshka* bonfire.
 - Go out the other door near the bonfire, kill the two Irithyllian Slaves then head around to the right to be invaded by Creighton. Kill Creighton.
