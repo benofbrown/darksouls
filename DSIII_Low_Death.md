@@ -76,12 +76,12 @@ This phase takes around 45 minutes, and can be a little scary at times. If you d
 ### Road of Sacrifices
 
 - Run through, killing the Corvians, and grabbing the *Titanite Shard* towards the end.
-- Run down to the *Halfway Fortress* bonfire, chat to *Anri* and *Horace*.
+- Run down to the *Halfway Fortress* bonfire.
 - Kill the first two mobs with the tree stumps and drop down to the left to find another *Titanite Shard*. Drop down again near here for yet another *Titanite Shard*.
 - Go around the left hand edge of the area, carefully killing the four mobs. Drop down for an *Estus Shard*.
 - **[Potential Danger]** Kill the crucified mob and head to the *Crucifixion Woods* bonfire, grabbing the *Ember* and soul item on the way.
-- **[Potential Danger]** Go to the edge of the water, drop down when it's low and run to the other side, grabbing the *Fallen Knight* set. Grab the soul item nearby.
-- Carefully run past the gank squad, down the ladder and light the *Farron Keep* bonfire.
+- Go to the edge of the water, drop down when it's low and run to the other side, grabbing the *Fallen Knight* set. Grab the soul item nearby.
+- **[Potential Danger]** Carefully run past the gank squad, down the ladder and light the *Farron Keep* bonfire.
 
 ### Farron Keep
 
@@ -94,7 +94,7 @@ This phase takes around 45 minutes, and can be a little scary at times. If you d
 - Run to the *Keep Ruins* bonfire and rest.
 - Head down the ramp to the domed building on the right, drop off the side of the ramp near the top to grab a *Titanite Shard*.
 - Grab the *Undead Bone Shard* near the slugs, then go up the ladder. Go around the side of the building and kill the Crystal Lizard for a *Twinkling Titanite*. Go through the illusory wall to get the *Dreamchaser's Ashes*.
-- Take the lift up, but don't fight the Stray Demon. Instead go the other way, drop down and go around the side, killing the two Crystal Lizards there for two *Large Titanite Shards*. Also get the *Dragoncrest Shield* and start using it.
+- Take the lift up, but don't fight the Stray Demon. Instead go the other way, drop down and go around the side, killing the two Crystal Lizards there for two *Large Titanite Shards*. Also get the *Dragoncrest Shield*.
 - Homeward Bone to *Firelink Shrine*. I used to take the lift back down but the drop from the gate can kill you if you don't get it quite right so it's safter to warp out.
 - Talk to *Sirris of the Sunset Realm*.
 - Give the *Dreamchaser's Ashes* to the *Shrine Handmaiden* and sell her all your soul items, *Embers*, and unused equipment.
@@ -126,7 +126,7 @@ From now on you either want to have this shield equipped all the time, or switch
 
 ## Phase II: Easy mode
 
-This phase is pretty easy as you're quite OP by this point, but there are a couple of points that can be quite tricky. It generally takes me around an hour and 45 minutes. The Raw Astora Sword +4 does 229 AR, and you should have 24 Vigour by now. Along with 9 upgraded Estus flasks it shouldn't be too hard.
+This phase is pretty easy as you're quite OP by this point, but there are a couple of points that can be quite tricky. It generally takes me around an hour and 45 minutes.
 
 - Warp to *Farron Keep*.
 - Kill the *Abyss Watchers* using the *Gold Pine Resin*.
@@ -135,8 +135,8 @@ This phase is pretty easy as you're quite OP by this point, but there are a coup
 
 - Head to the right and drop down.
 - Kill the hat-wearing skeleton and pick up the *Undead Bone Shard* the ball of skeletons drops.
-- Run to the bonfire and light it. Don't rest if you don't have to.
-- Cut down the bridge, and go down it.
+- Run to where the skeleton ball comes from and grab a *Large Titanite Shards*, then to the bonfire and light it. Don't rest if you don't have to.
+- Cut down the bridge, and go down it. Grab a *Large Titanite Shard* next to the small set of stairs near the exit of the room with the Fire Demon in.
 - Run to the *Abandoned Tomb* bonfire, light it and rest.
 - Pick up three *Large Titanite Shards* then go in to the cave.
 - Kill the two crystal lizards for a *Twinkling Titanite* and a *Titanite Chunk*, grab the two *Large Titanite Shards* and the *Yellow Bug Pellets*.
@@ -145,7 +145,7 @@ This phase is pretty easy as you're quite OP by this point, but there are a coup
 - Talk to *Greirat* again, tell him to go raiding.
 - Sell all soul items, including boss souls, and any equipment you're not using. Also sell the *Twinkling Titanites*.
 - Upgrade your sword to *Sharp Sellsword Twinblades +7*.
-- Level up. Go in 5 level blocks, first *Vigour* then *Dexterity*.
+- Level up. Go in 10 level blocks, first *Vigour* then *Dexterity*.
 - Warp to *Road of Sacrifices*, take the elevator up and kill the Fire Demon with the *Shield of Want* equipped. Grab the *Choranthy Ring* on the way down and run to the *Pit of Hollows* bonfire.
 - Warp to *Crucifixion Woods*.
 - Grab the *Blue Bug Pellet* on the way to the *Crystal Sage*. It's in the staircase going down opposite *Orbeck of Vinheim*.
@@ -167,7 +167,6 @@ This phase is pretty easy as you're quite OP by this point, but there are a coup
 - Kill the mob, and then *Longfinger Kirk*, and then quickstep past the other giant.
 - Open the final short cut, and kill *Patches*. This saves a lot of souls and quite a bit of trouble.
 - Go over the bridge and light the *Rosaria's Bedchamber* bonfire. 
-- Warp back to *Rosaria's Chamber*.
 - Kill the *Deacons of the Deep*. Fight as normal in the first phase, in the second buff with a *Gold Pine Resin* then throw an *Alluring Skull* and kill the main dude when the others are distracted.
 - Grab the *Archdeacon set*.
 - Warp to *Cleansing Chapel* and rescue *Siegward* from the well.
@@ -213,7 +212,7 @@ This phase has some tougher bosses in. It's also where we switch to a luck based
 - Warp back to Dragon Barracks, run over the bridge and drop down on the opposite side for the *Undead Bone Shard*. Drop down and kill the mob before they turn in to a Pus of Man. Run to the other end and do the same for the other one, and pick up two *Titanite Chunks*.
 - Run back to the bonfire, past the thieves, and grab the soul item on the way.
 - Drop down on the nearest side, grabbing the *Titantite Chunk* to the right, then head the other way.
-- Run up the stairs, open the short cut and kill the dragon with firebombs. It takes 7 *Black Firebombs* and 1 or 2 *Firebombs*.
+- Run up the stairs, open the short cut and kill the dragon with firebombs. It takes 7 *Black Firebombs* and 1 or 2 *Firebombs*. It will drop 2 *Titanite Chunks*.
 - Run out the back, grab another *Titanite Chunk* and kill a crystal lizard for two *Twinkling Titanites* that we can sell.
 - Warp to *Profaned Capital*, rescue Siegward for a *Titanite Slab*, killing the two crystal lizards on the way for another two *Twinkling Titanites*.
 - Drop down to where the giant and rats are and take the lift up to the Irithyll Dungeon bonfire.
