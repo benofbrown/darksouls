@@ -57,11 +57,10 @@ Very rough notes!
 - Kill Celestial Emissary **Celestial Emissary**
 - Grab *A Call Beyond* and kill Ebrietas **Ebrietas, Daughter of the Cosmos**, **Chalice of Isz**
 - Martyr Logarius - put the crown on and get Cainhurst badge and summons **Martyr Logarius**
+- Put Eileen down :( Grab the *Crow Hunter Badge*.
 - Give summons to Alfred for the Wheel Badge
 - Nightmare Frontier - pick up *Messenger's Gift*. **Hunter's Craft**
-- Make sure you get 14 Arc before Orphan of Kos.
 - Amygdala **Amygdala**, **Chalice of Ailing Loran**
-- Put Eileen down :( Grab the *Crow Hunter Badge*.
 - Ludwig. After the fight put on the white church set and talk to Ludwig to get the *Holy Moonlight Sword*. **Ludwig, the Holy Blade**
 - Light the Research Hall lamp, then go back down in the lift to get the *Church Cannon*. Warp back to save time.
 - In the Research Hall make sure to grab the *Loch Shield*, and the *Underground Cell Key*.
@@ -69,8 +68,7 @@ Very rough notes!
 - Maria **Lady Maria of the Astral Clocktower**
 - Grab the gem in the building by the ladder shortcut. **Blood Gem Master**
 - Grab *Simon's Bow Blade* and the *Underground Cell Inner Chamber Key*
-- Fully upgrade the Holy Moonlight Sword.
-- Kill Orphan with HMB, get the *Kos Parasite*. **Orphan of Kos**
+- Kill Orphan, get the *Kos Parasite*. **Orphan of Kos**
 - Laurence **Laurence, the First Vicar**
 - Get all the DLC weapons. There should be these remaining:
     - *Beast Cutter* - Near the start, by the Boom Hammer hunter.
@@ -124,7 +122,6 @@ Easiest at the end, as you can buy Ritual Blood (5) in NG+ and beyond. Need to k
 
 ### For purchase:
 - Coldblood Flowerbud: Don't worry about it, can buy it with insight from the messengers in NG+
-- Pearl Slug: No biggy, you can pick up one per NG in Byrgenworth, or just buy them from the messengers.
 - Ritual Blood (5): There's 3 in front of the gate you open in Upper Cathedral Ward. Grabbing them will save you a few echoes.
 - Bastard of Loran: Buy these from the messengers, you need 2 (14 insight total).
 
