@@ -165,7 +165,7 @@ Need: 9 Ritual Blood (3), see previous. 3200 echoes.
 - Layer 3: Rom
   - in-level: 1 Ritual Blood (4) past illusory wall by the lantern (straight ahead)
 - Layer 4: Bloodletting Beast
-  - in-level: 5 Ritual Blood (4) in two separate rooms.
+  - in-level: 5 Ritual Blood (4) in two separate rooms. 4 are in a treasure room in two separate chests.
 
 Don't delete this chalice, but go back to the pre-boss bonus area in Layer 3 and farm the kidnapper there for one Ritual Blood (4). Make sure you have a bunch of Bold Hunter Marks.
 
@@ -180,6 +180,7 @@ Need: 9 Ritual Blood (4), see previous. 4 Coldblood Flowerbuds, buy from the mes
   - pre-lantern area:
     - 2 Ritual Blood (4)
     - *Beast Claw*
+  - **Go back to the dream and buy all the weapons at this point - the next area is rough**
   - pre-boss: 4 Ritual Blood (4)
 
 ### Defiled Pthumeru:
