@@ -108,6 +108,7 @@ NG
 - Mountain Echo
 - Phoenix's Lilac Umbrella
 - Okinaga's Flame Vent
+- Suzaku's Lotus Umbrella
 - Malcontent
 
 NG++
@@ -117,7 +118,6 @@ NG++
 - Spring load Axe
 - Improved Sabimaru
 - Piercing Sabimaru
-- Double Divine Abduction
 - Long Spark
 - Sparking Axe
 - Purple Fume Spark
