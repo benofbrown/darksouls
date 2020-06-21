@@ -106,8 +106,8 @@ NG
 - Loaded Umbrella Magnet
 
     - 9 Scrap Iron
-    - 5 Black Gunpowder
     - 3 Scrap Magnetite
+    - 5 Black Gunpowder
     - 1100 Sen
 
 - Double Divine Abduction
