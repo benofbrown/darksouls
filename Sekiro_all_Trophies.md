@@ -25,69 +25,71 @@ Bead order
 ----------
 
 
-Ashina Outskirts: Drop from First general
-Ashina Outskirts: Drop from Ogre
-Ashina Outskirts: Above the Tengu of Ashina
-Hirata Estate - First visit: Drop from Shinobi Hunter
-*11 Vit*
+- Ashina Outskirts: Drop from First general
+- Ashina Outskirts: Drop from Ogre
+- Ashina Outskirts: Above the Tengu of Ashina
+- Hirata Estate - First visit: Drop from Shinobi Hunter
+- *11 Vit*
 
-Ashina Outskirts: Drop from the Bull
-Ashina Castle - First visit: Behind shinobi door after Antechamber idol
-Sunken Valley: On the ground on the way to the Gokan headless
-Ashina Castle - First visit: Sold by merchant in Abandoned Dungeon entrance
-*12 Vit*
+- Ashina Outskirts: Drop from the Bull
+- Ashina Castle - First visit: Behind shinobi door after Antechamber idol
+- Sunken Valley: On the ground on the way to the Gokan headless
+- Ashina Castle - First visit: Sold by merchant in Abandoned Dungeon entrance
+- *12 Vit*
 
-Senpu Temple: Drop from Armoured Warrior
-Senpu Temple: Drop from Long Arm
-Ashina Outskirts: Drop from Second General
-Ashina Castle - First visit: Drop from General
-*13 Vit*
+- Senpu Temple: Drop from Armoured Warrior
+- Senpu Temple: Drop from Long Arm
+- Ashina Outskirts: Drop from Second General
+- Ashina Castle - First visit: Drop from General
+- *13 Vit*
 
-Ashina Castle - First visit: Drop from Ashina Elite
-Hirata Estate - First visit: Drop from Juzou
-Hirata Estate - First visit: Behind shinobi door after Juzou
-Sunken Valley: Drop from Giraffe
-*14 Vit*
+- Ashina Castle - First visit: Drop from Ashina Elite
+- Hirata Estate - First visit: Drop from Juzou
+- Hirata Estate - First visit: Behind shinobi door after Juzou
+- Sunken Valley: Drop from Giraffe
+- *14 Vit*
 
-Sunken Valley: In tunnel after Giraffe
-Ashina Depths: Drop from Snake Eyes
-Ashina Depths: On top of Buddha statue after Snake Eyes
-Ashina Depths: In roof above the village priest
-*15 Vit*
+- Sunken Valley: In tunnel after Giraffe
+- Ashina Depths: Drop from Snake Eyes
+- Ashina Depths: On top of Buddha statue after Snake Eyes
+- Ashina Depths: In roof above the village priest
+- *15 Vit*
 
-Ashina Depths: Underwater in Mibu Village
-Senpu Temple: Underwater after Armoured Warrior
-Ashina Castle - First visit: Drop from Seven spears
-Ashina Castle - First visit: Drop from Lone Shadow
-*16 Vit*
+- Ashina Depths: Underwater in Mibu Village
+- Senpu Temple: Underwater after Armoured Warrior
+- Ashina Castle - First visit: Drop from Seven spears
+- Ashina Castle - First visit: Drop from Lone Shadow
+- *16 Vit*
 
+- Ashina Depths: Drop from Headless Ape
+- Ashina Depths: Drop from Headless Ape (2nd drop)
+- Ashina Castle - second visit: Drop from Chained Ogre
+- Ashina Depths: Drop from Glutton
+- *17 Vit*
 
-Ashina Depths: Drop from Headless Ape
-Ashina Depths: Drop from Headless Ape (2nd drop)
-Ashina Castle - second visit: Drop from Chained Ogre
-Ashina Depths: Drop from Glutton
-*17 Vit*
+- Fountainhead Palace: Drop from the Bull
+- Fountainhead Palace: Drop from Okami Leader
+- Fountainhead Palace: In a chest underwater
+- Ashina Castle under attack: Drop from Red Guard guy
+- *18 Vit*
 
-Fountainhead Palace: Drop from the Bull
-Fountainhead Palace: Drop from Okami Leader
-Fountainhead Palace: In a chest underwater
-Ashina Castle under attack: Drop from Red Guard guy
-*18 Vit*
+- Hirata Estate - Second visit: Drop from dog ninja
+- Hirata Estate - Second visit: Drop from Juzou
+- Sunken Valley: Drop from Snake Eyes
+- Ashina Depths: Drop from O'Rin of the water
+- *19 Vit*
 
-Hirata Estate - Second visit: Drop from dog ninja
-Hirata Estate - Second visit: Drop from Juzou
-Sunken Valley: Drop from Snake Eyes
-Ashina Depths: Drop from O'Rin of the water
-*19 Vit*
-
-Ashina Castle - second visit: Drop from Vilehand
-Ashina Castle under attack: Drop from Ashina Elite under the watchtower
-Ashina Castle under attack: Drop from Seven Spears
-Ashina Castle - second visit: Drop from other Vilehand (buy from shrine, 2200 Sen)
-*20 Vit*
+- Ashina Castle - second visit: Drop from Vilehand
+- Ashina Castle under attack: Drop from Ashina Elite under the watchtower
+- Ashina Castle under attack: Drop from Seven Spears
+- Ashina Castle - second visit: Drop from other Vilehand (buy from shrine, 2200 Sen)
+- *20 Vit*
 
 Upgrades
---------
+========
+
+NG
+--
 
 - Spring-loaded Firecracker
 - Spring-loaded Flame vent
@@ -97,3 +99,16 @@ Upgrades
 - Phoenix's Lilac Umbrella
 - Okinaga's Flame Vent
 - Malcontent
+
+NG++
+----
+
+- Spinning Shuriken
+- Spring load Axe
+- Improved Sabimaru
+- Piercing Sabimaru
+- Double Divine Abduction
+- Long Spark
+- Sparking Axe
+- Purple Fume Spark
+- Lazulite Sabimaru
