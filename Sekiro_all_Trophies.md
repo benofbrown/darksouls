@@ -104,12 +104,37 @@ NG
 - Spring-loaded Firecracker
 - Spring-loaded Flame vent
 - Loaded Umbrella Magnet
+
+    - 9 Scrap Iron
+    - 5 Black Gunpowder
+    - 3 Scrap Magnetite
+    - 1100 Sen
+
 - Double Divine Abduction
 - Mountain Echo
 - Phoenix's Lilac Umbrella
 - Okinaga's Flame Vent
 - Suzaku's Lotus Umbrella
+
+    - 9 Scrap Iron
+    - 15 Scrap Magnetite
+    - 2 Adamantite Scrap
+    - 8 Black Gunpowder
+    - 10 Yellow Gunpowder
+    - 2 Fulminated Mercury
+    - 6 Lump of Fat Wax
+    - Pine Resin (from near the lake in Mibu Village)
+    - 4100 Sen
+
 - Malcontent
+
+    - 4 Scrap Magnetite
+    - 2 Adamantite Scrap
+    - 4 Lump of Fat Wax
+    - 2 Lump of Grave Wax
+    - Malcontent's Ring (from the Shichimen Warrior near Poison Pool)
+    - 1500 Sen
+
 
 NG++
 ----
@@ -122,3 +147,29 @@ NG++
 - Sparking Axe
 - Purple Fume Spark
 - Lazulite Sabimaru
+
+    - 36 Scrap Iron
+    - 16 Scrap Magnetite
+    - 12 Adamantite Scrap
+    - 7 Black Gunpowder
+    - 4 Yellow Gunpowder
+    - 6 Fulminated Mercury
+    - 5 Lump of Fat Wax
+    - 2 Lapis Lazuli
+    - 8700 Sen
+
+Final Upgrades
+--------------
+
+All the rest of the tools
+
+- 37 Scrap Iron
+- 25 Scrap Magnetite
+- 16 Adamantite Scrap
+- 10 Black Gunpowder
+- 15 Yellow Gunpowder
+- 11 Fulminated Mercury
+- 25 Lump of Fat Wax
+- 15 Lump of Grave Wax
+- 8 Lapis Lazuli
+- 19600 Sen
