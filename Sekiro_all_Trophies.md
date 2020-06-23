@@ -203,14 +203,14 @@ We also want to buy Akos again so you need to make sure to follow that storyline
 - Snake Eyes
 - Mist Noble
 - **Corrupted Monk**
+- Warp to divine child, get rice.
 - Warp to *Stairway*, talk to Anayama until he needs someone thick.
 - Warp to divine child, get rice.
 - Warp to start of Senpu, send Kotoro to Anayama.
 - Puppet the little guy to put the kite up, run through the level to follow the kite.
 - Drop in the water after killing the snake, and get the *Treasure Carp Scale*
-- Warp to divine child, get rice.
-- **Guardian Ape**
 - Warp to the divine child, do as much as you can until she closes the doors
+- **Guardian Ape**
 - Kill **Owl**
 - Warp to the divine child, get the **Frozen Tears**
 - Upgrade drop rate skill, go to Fountainhead, kill everyone as normal
