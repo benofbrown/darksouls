@@ -4,6 +4,13 @@ Not a speedrun, but a glitch free kinda fast but still possible for normal peopl
 
 Needs a bit more fleshing out, just jotting down some ideas and important points for now.
 
+# Most important things
+
+- Do Rya's necklace quest before using Lift of Dectus
+- Get to 57 INT, Comet Azure, Terra Magica, Radagon's Icon, and the magic boost talisman and crystal tears before Fire Giant
+- Get Mimic Tear to +10 before Godskin Duo
+- Get Greatshield Soldiers to +10 before final boss
+
 # Starting the run
 
 - Start a new game as a Samurai.
