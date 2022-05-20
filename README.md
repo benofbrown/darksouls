@@ -7,3 +7,7 @@ Dark Souls (and other FromSoft) runs, pretty much just for my own interest
 
 ## All trophies runs
 - [Bloodbourne All Trophies route](Bloodbourne_all_Trophies.md)
+- [Sekiro All Trophies route](Sekiro_all_Trophies.md)
+
+## Other routes
+- [Elden Ring Brisk Jog](Elden_Ring.md)
