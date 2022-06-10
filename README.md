@@ -11,3 +11,6 @@ Dark Souls (and other FromSoft) runs, pretty much just for my own interest
 
 ## Other routes
 - [Elden Ring Brisk Jog](Elden_Ring.md)
+
+## Lists
+- [Elden Ring upgrade materials](Elden_Ring_materials.md)
