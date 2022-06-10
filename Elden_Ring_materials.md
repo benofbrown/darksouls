@@ -6,13 +6,12 @@
 - 1 on the Ageel Lake bridge
 - 2 on Saintsbridge
 - 3 from merchant near Saintsbridge (600 runes)
-- 5 from merchant near Raya Lucaria (1000 runes)
+- 5 from merchant near the start of the lake (1000 runes)
 
 ## Smithing Stone [2]
 
-- 1 from the merchant by Castle Morne ramparts (400 runes)
-- 2 on the road to Castle Morne
 - 3 from the merchant near the start of the lake (1200 runes)
+- 3 in a stone gazebo East of Temple District site of grace
 - 3 in a stone gazebo NW of Boilprawn Shack
 - 3 in a stone gazebo West of Rose Church (which is NW of previous gazebo)
 
