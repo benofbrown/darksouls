@@ -19,9 +19,12 @@ Needs a bit more fleshing out, just jotting down some ideas and important points
 - Rescue Boc and talk until you get mushrooms
 - Grab the Gold Fowl Foot and Somber Smithing Stone [1]
 - Get to Third Church of Marika, get the Flask of Wonderous Physik and Sacred Tear. Run South so you hear Blaidd howling, pick up the Trina's Lilys near the Runebear in the Ruins
-- Run to the Fort Haight West site of grace, travel back to Third Church of Marika.
-- Teleport to Caelid, kill the sleeping dragon, pop the Gold Fowl Foot before the final blow
-- Level up Dex to 18, Int to 23
+- Run to the Fort Haight West site of grace, travel back to the First Step.
+- Go to the Agheel Lake South site of grace, carry on South to the Weeping Penninsula, getting the Stonesword Key on the way.
+- Carry on to the site of grace near the merchant, buy a Cracked Pot off him.
+- Run to the two nearby churches picking up the Sacred Tears in each, as well as the Blood Grease outside the first one, and the Trina's Lilies in the ruins between the two.
+- Travel back to Third Church of Marika, teleport to Caelid, kill the sleeping dragon using the Blood Grease to speed it up, pop the Gold Fowl Foot before the final blow
+- Level up Dex to 18, Int to 23, rest of the runes go in to Vigour.
 - Go to Church of Ellah, get the spirit bell from Ranni, and buy the crafting kit and 3 cracked pots. Ask him about the howling in Mistwood.
 - Get to Stormhill shack, talk to Roderika
 - Get Golden Vow and another SSS[1]
@@ -48,12 +51,21 @@ Needs a bit more fleshing out, just jotting down some ideas and important points
 - Warp back to Altus Plateau and run around grabbing seeds and getting closer to the city.
 - Get the twiggy cracked tear and put it in the flask.
 
+# Levelling strategy
+
+1. After the initial levelling up so we can use Moonveil, the next priority is getting Vigour to 30.
+2. Then level Intelligence to 57. With Rennala's hat that takes us to the 60 we need for Comet Azur.
+3. Level Vigour to 40.
+4. Rest of the points go in to Mind.
 
 # Kill some bosses
-- Margit (for the talisman)
+- Margit (for the talisman pouch)
+- Cleanrot Knight in the Abandoned Cave to get the Gold Scarab talisman.
 - Godskin Noble (to get to SSS[7]+)
-- Radhan (we do him first so we can get Mimic Tear)
+- Get the SSS[8] and SSS[9] from Dragonbarrow.
+- Upgrade Moonveil to +9
 - Godrick
+- Radhan (we do him early so we can get Mimic Tear)
 - Red Wolf of Radagon
 - Rennala
 - Rykard
@@ -62,9 +74,16 @@ Needs a bit more fleshing out, just jotting down some ideas and important points
 - Boreal Dragon (for the runes)
 - Tree that drops the magic boosting tear
 - Ulcerated that drops the inifinite FP tear
+- Get Comet Azur, Terra Magica.
+- Upgrade Mimic Tear to +10
 - Fire Giant
 - Godskin Duo
+- Upgrade Moonveil to +10
 - Malekith
 - Gideon
 - Horah Loux
+- Do Wyndham Catacombs, grabbing the various Grave Gloveworts in there.
+- Grab a Grave Glovewort[6] from Azuria Side Tomb, near the start.
+- Get the Bell Bearing for the rest from Crumbling Beast Grave Depths, down the lift and next to the lake. Buy Grave Glovewort 7, 8 and 9.
+- Get the Great Grave Glovewort from near the same site of grace, outside up on the roof. Upgrade the Greatshield Soldiers to +10.
 - Radagon/Elden Beast
