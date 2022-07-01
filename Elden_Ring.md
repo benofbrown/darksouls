@@ -60,22 +60,26 @@ Needs a bit more fleshing out, just jotting down some ideas and important points
 
 # Kill some bosses
 - Margit (for the talisman pouch)
-- Cleanrot Knight in the Abandoned Cave to get the Gold Scarab talisman.
+- Warp to Schoolhouse Classroom and use the shortcut to Volcano Manor. Get the SSS[6] then the SSS[5] before opening the shortcut for Godskin Noble.
+- Upgrade Moonveil to +6.
+- Kill the Cleanrot Knight in the Abandoned Cave to get the Gold Scarab talisman.
 - Godskin Noble (to get to SSS[7]+)
 - Get the SSS[8] and SSS[9] from Dragonbarrow.
 - Upgrade Moonveil to +9
 - Godrick
-- Radhan (we do him early so we can get Mimic Tear)
+- Radahn (we do him early so we can get Mimic Tear)
+- Upgrade Mimic Tear to +4.
 - Red Wolf of Radagon
 - Rennala
 - Rykard
+- Draconic Tree Sentinel.
 - Godfrey
 - Morgott
+- Upgrade Mimic Tear to +10
 - Boreal Dragon (for the runes)
 - Tree that drops the magic boosting tear
 - Ulcerated that drops the inifinite FP tear
 - Get Comet Azur, Terra Magica.
-- Upgrade Mimic Tear to +10
 - Fire Giant
 - Godskin Duo
 - Upgrade Moonveil to +10
