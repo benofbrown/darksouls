@@ -33,7 +33,7 @@ Needs a bit more fleshing out, just jotting down some ideas and important points
 - Buy the lantern from the merchant at the start of the lake
 - Go to the Laskyar Ruins site of grace, grabbing the map fragment on the way.
 - Take the teleporter to the Academy gate, grab the site of grace then jump off the bridge carefully to the west and get the Academy Glintstone Key
-- Run to the west bank of the lake and grab the foot of the Belfry grace.
+- Run north grab the Crystalline Woods grace.
 - Warp back to Laskyar Ruins, talk to Rya, then Blackguard, then give the necklace to Rya and exhaust her dialogue
 - Warp back to the Academy gate, go through it, grab the grace then go past the seal towards Bellum and grab the Golden Seed there, before warping back to the main academy grace and using the seal this time to go to Bellum.
 - Go south east, jump off the cliff on to the soul spring, get the SSS[3], then follow the coast northwards to get a SSS[4] on a chair, near the Ravine site of grace. Carry on down the ravine to grab another Golden Seed.
@@ -77,9 +77,12 @@ Needs a bit more fleshing out, just jotting down some ideas and important points
 - Morgott
 - Upgrade Mimic Tear to +10
 - Boreal Dragon (for the runes)
-- Tree that drops the magic boosting tear
+- Tree that drops the magic boosting tear, North of the Church of Vows
 - Ulcerated that drops the inifinite FP tear
-- Get Comet Azur, Terra Magica.
+- Grab the Site of Grace at the start of Wyndham Catacombs, but don't do the dungeon yet, we'll come back later.
+- Get Comet Azur
+- Warp to Debate Hall and get Radagon's Icon, warp back there and get the stonesword key and the magic boosting talisman
+- Warp to Crystalline Woods and get Terra Magica
 - Fire Giant
 - Godskin Duo
 - Upgrade Moonveil to +10
@@ -87,7 +90,7 @@ Needs a bit more fleshing out, just jotting down some ideas and important points
 - Gideon
 - Horah Loux
 - Do Wyndham Catacombs, grabbing the various Grave Gloveworts in there.
-- Grab a Grave Glovewort[6] from Azuria Side Tomb, near the start.
+- Grab a Grave Glovewort[6] from War-Dead Catacombs, near the start.
 - Get the Bell Bearing for the rest from Crumbling Beast Grave Depths, down the lift and next to the lake. Buy Grave Glovewort 7, 8 and 9.
 - Get the Great Grave Glovewort from near the same site of grace, outside up on the roof. Upgrade the Greatshield Soldiers to +10.
 - Radagon/Elden Beast
