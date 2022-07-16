@@ -76,6 +76,7 @@ The general strategy in most boss fights now is spam Transient Moonlight (heavy 
 - Red Wolf of Radagon
 - Rennala
 - Backtrack from the boss room to teleport to the Church of Vows, kill the Erdtree Avatar north of there to get the magic boosting tear.
+- Warp to the Liftside Chamber site of grace then run south to get on to the roof and get another Stonesword Key and the Claw Talisman.
 - Warp to Night's Sacred Garden, run straight ahead and a bit to the right so the giant doesn't aggro. Grab the Fingerslayer Blade and Great Ghost Glovewort and use the nearby teleport.
 - Warp back to Ranni, get the Inverted Carian Statue and warp to Church of Vows and ride south to the tower. Don't fight Miriam, just jump down. Grab the stuff at the top of the divine tower after running past Godskin Noble, don't waste time fighting him.
 - Warp back to Ranni's Rise, ride over to Renna's Rise and use the teleporter. **DON'T LEVEL UP UNTIL YOU'VE FINISHED UPGRADING THE MIMIC TEAR**.
