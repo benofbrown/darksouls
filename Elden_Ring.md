@@ -2,6 +2,22 @@
 
 Not a speedrun, but a glitch free kinda fast but still possible for normal people route.
 
+# Levelling strategy
+
+1. After the initial levelling up so we can use Moonveil, the next priority is getting Vigour to 30.
+2. Then level Intelligence to 57. With Rennala's hat that takes us to the 60 we need for Comet Azur.
+3. Level Vigour to 40.
+4. Rest of the points go in to Mind.
+
+# General Boss Strategy
+
+The general strategy in most boss fights now is spam Transient Moonlight (heavy attack version) until they are dead, using Mimic Tear once we've got it. There are a few exceptions:
+
+- Borealis the Freezing Fog: Rock Sling aimed at the head until stagger, then riposte with Moonveil.
+- Not really a boss but the Draconic Tree Sentinel before Maliketh: Terra Magica, infinite FP and Comet Azur.
+- Gideon Ofnir the All Knowing: Terra Magica, infinite FP and Comet Azur.
+- Radagon of the Golden Order: Use Greatshield Soldier ashes to pin them down then Terra Magica, infinite FP and Comet Azur. Elden Beast is back to Transient Moonlight spam.
+
 # Starting the run
 
 - Start a new game as a Samurai.
@@ -9,7 +25,7 @@ Not a speedrun, but a glitch free kinda fast but still possible for normal peopl
 - Get the map fragment and stone that lets you change the ash of war you use
 - Rescue Boc and talk until you get mushrooms
 - Grab the Gold Fowl Foot and Somber Smithing Stone [1]
-- Go towards the Third Church of Marika, grab the site of grace near the big arch that Kenneth Haight stands on. Go up the arch, ignore Kenneth, and grab the Fervor's Cookbook there then warp back.
+- Go towards the Third Church of Marika, grab the site of grace near the big arch that Kenneth Haight stands on. Go up the arch, ignore Kenneth, and grab the Fervor's Cookbook there then continue to the Third Church of Marika.
 - Get to Third Church of Marika, get the Flask of Wondrous Physick and Sacred Tear. Run South so you hear Blaidd howling, pick up the Trina's Lilies near the Runebear in the Mistwood Ruins.
 - Run to the Fort Haight West site of grace, travel back to the First Step.
 - Go to the Agheel Lake South site of grace, carry on South to the Weeping Peninsula, getting the Stonesword Key on the way.
@@ -48,34 +64,20 @@ Not a speedrun, but a glitch free kinda fast but still possible for normal peopl
 - Go to Rotview Balcony then get the SSS[8] and SSS[9] from Dragonbarrow.
 - Upgrade Moonveil to +9.
 
-# Levelling strategy
-
-1. After the initial levelling up so we can use Moonveil, the next priority is getting Vigour to 30.
-2. Then level Intelligence to 57. With Rennala's hat that takes us to the 60 we need for Comet Azur.
-3. Level Vigour to 40.
-4. Rest of the points go in to Mind.
-
-# General Boss Strategy
-
-The general strategy in most boss fights now is spam Transient Moonlight (heavy attack version) until they are dead, using Mimic Tear once we've got it. There are a few exceptions:
-
-- Borealis the Freezing Fog: Rock Sling aimed at the head until stagger, then riposte with Moonveil.
-- Not really a boss but the Draconic Tree Sentinel before Maliketh: Terra Magica, infinite FP and Comet Azur.
-- Gideon Ofnir the All Knowing: Terra Magica, infinite FP and Comet Azur.
-- Radagon of the Golden Order: Use Greatshield Soldier ashes to pin them down then Terra Magica, infinite FP and Comet Azur. Elden Beast is back to Transient Moonlight spam.
-
 # The Run in Earnest
 
 - Warp to Agheel Lake South, kill Darriwil with Blaidd, talk to Blaidd to get a second SSS[2].
 - Margit (for the talisman pouch)
 - Kill the Cleanrot Knight in the Abandoned Cave to get the Gold Scarab talisman.
-- Godrick
-- Starscourge Radahn (we do him early so we can get Mimic Tear)
+- Run through Stormveil castle. When you get to the Secluded Cell site of grace, go left and grab the Trina's Lily and Golden Seed before talking to Nepheli Loux. It's vital that you do this before beating Godrick. Warp back to Secluded Cell.
+- Kill Godrick.
+- Warp to the Aeonia Swamp Shore site of grace, then head south east to the map fragment. Carry on that way to grab the Golden Seen then head to Redmane Castle.
+- Kill Starscourge Radahn. Summon all the help and spam him with Transient Moonlight.
 - Go to Fort Haight West and go down the big hole, grabbing the bell bearing for Ghost Gloveworts, Greatshield Soldier ashes and SSS[4] and SSS[5] on the way, as well as Ghost Glovewort 3 and 4.
 - Get Mimic Tear, upgrade Mimic Tear to +4 after buying Ghost Glovewort 1 and 2.
 - Talk to Nepheli Loux in the Roundtable Hold to get the Arsenal Charm.
-- Red Wolf of Radagon
-- Rennala, then **DON'T LEVEL UP UNTIL YOU'VE FINISHED UPGRADING THE MIMIC TEAR**.
+- Warp to Schoolhouse Classroom and kill the Red Wolf of Radagon.
+- Carry on and kill Rennala, then **DON'T LEVEL UP UNTIL YOU'VE FINISHED UPGRADING THE MIMIC TEAR**.
 - Backtrack from the boss room to teleport to the Church of Vows, kill the Erdtree Avatar north of there to get the magic boosting tear.
 - Go to the Roundtable Hold, talk to the finger reader to get a Talisman Pouch.
 - Warp to the Liftside Chamber site of grace then run south to get on to the roof and get another Stonesword Key and the Claw Talisman. Equip the Claw Talisman.
@@ -89,13 +91,15 @@ The general strategy in most boss fights now is spam Transient Moonlight (heavy 
 - Take the Wondrous flask and suicide run for the bell bearing (up the stairs, second left)
 - Take the flask again just in case and go to the right of the stairs to grab the Ghost Glovewort [8] against the wall, then carry on to the lift and take it down. Grab the Ghost Glovewort [9] there
 - Warp to the Roundtable Hold, turn in the Bell Bearing to the twin husks and buy a Ghost Glovewort [5] then upgrade Mimic Tear to +10, use any remaining runes to level up.
-- Put the charge attack boost tear in the flask
-- Rykard
-- Put the magic boost tear in the flask
-- Draconic Tree Sentinel
-- Godfrey
-- Morgott
-- Kill the scarab on the bridge for a second SSS[6], and the scarab after the narrow bridge for a second SSS[8].
+- Put the charge attack boost tear in the flask.
+- Go to Temple of Eiglay and kill Rykard.
+- Put the magic boost tear in the flask.
+- Travel to Outer Wall Battleground and kill the Draconic Tree Sentinel.
+- Drop down on to the roof where the three envoys are and head to the Avenue Balcony site of grace, killing the Erdtree Avatar on the way.
+- Go down the stairs and run past the knights and up to West Capital Ramparts. Grab the Golden Seen then run back to lose aggro.
+- Kill Godfrey.
+- Kill Morgott.
+- Go to Avenue Balcony and run east to get to the big lift. Kill the scarab on the bridge for a second SSS[6], and the scarab after the narrow bridge for a second SSS[8].
 - Warp to Selia Crystal Tunnel, run to Selia, go up the stairs, left, then up more stairs and grab a Golden Seed.
 - Go straight on and up the first tower to lift the seal, then fight the nearby boss to get Lusat's Staff. Warp to the Roundtable Hold and upgrade it to +8.
 - Boreal Dragon (for the runes). Use Lusat's with the Meteorite staff in the off hand and Rock Sling.
@@ -105,13 +109,13 @@ The general strategy in most boss fights now is spam Transient Moonlight (heavy 
 - Godskin Duo
 - Upgrade Moonveil to +10 and Lusat's to +9
 - Do Wyndham Catacombs, grabbing the Grave Glovewort [4] and [5] in there. It's quickest to die to the knight in the room with the lever, much quicker than backtracking.
-- Get Comet Azur
-- Warp to Debate Hall and get Radagon's Icon, warp back there and get the Stonesword Key and the magic boosting talisman
-- Warp to Crystalline Woods and get Terra Magica
+- Get Comet Azur.
+- Warp to Debate Hall and get Radagon's Icon, warp back there and get the Stonesword Key and the magic boosting talisman.
+- Warp to Crystalline Woods and get Terra Magica.
 - Warp to Volcano Manor, go out the front door, grab the Golden Seed and kill the Ulcerated Tree Spirit that drops the infinite FP tear.
 - Use Comet Azur to kill the Draconic Tree Sentinel in front of Maliketh. Equip the Arsenal Charm and the chest piece the sentinel just dropped.
-- Maliketh
-- Gideon
-- Godfrey/Hoarah Loux
-- Buy Grave Glovewort 1, 2, 7, 8, and 9 and upgrade the Greatshield Soldiers to +10
-- Radagon/Elden Beast
+- Maliketh.
+- Gideon.
+- Godfrey/Hoarah Loux.
+- Buy Grave Glovewort 1, 2, 7, 8, and 9 and upgrade the Greatshield Soldiers to +10.
+- Radagon/Elden Beast.
