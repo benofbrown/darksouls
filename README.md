@@ -14,3 +14,4 @@ Dark Souls (and other FromSoft) runs, pretty much just for my own interest
 
 ## Lists
 - [Elden Ring upgrade materials](Elden_Ring/materials.md)
+- [Elden Ring spells](Elden_Ring/Magic.md)
