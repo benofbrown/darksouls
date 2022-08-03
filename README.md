@@ -10,7 +10,7 @@ Dark Souls (and other FromSoft) runs, pretty much just for my own interest
 - [Sekiro All Trophies route](Sekiro_all_Trophies.md)
 
 ## Other routes
-- [Elden Ring Brisk Jog](Elden_Ring.md)
+- [Elden Ring Brisk Jog](Elden_Ring/Brisk_Jog.md)
 
 ## Lists
-- [Elden Ring upgrade materials](Elden_Ring_materials.md)
+- [Elden Ring upgrade materials](Elden_Ring/materials.md)
