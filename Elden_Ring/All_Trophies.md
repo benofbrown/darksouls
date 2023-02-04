@@ -11,6 +11,8 @@ Endings
 
 Mandatory Bosses
 ----------------
+
+- Shardbearer Morgott
 - Maliketh the Black Blade
 - Hoarah Loux the Warrior
 - Godskin Duo
@@ -22,7 +24,6 @@ Optional Bosses
 
 - Shardbearer Godrick
 - Shardbearer Radahn
-- Shardbearer Morgott
 - Shardbearer Rykard
 - Shardbearer Malenia
 - Shardbearer Mohg
@@ -94,3 +95,92 @@ Legendary items
     - Marika's Soreseal: Haligtree, behind a stonesword key fog near Prayer Room but way down on the ground level.
     - Old Lord's Talisman: Crumbling Faram Azula, other end of the greatbridge from Maliketh
     - Erdtree's Favor +2: In the ash version of the capitol, approach from Forbidden Lands. Guarded by a lot of ulcerated tree spirits
+
+
+Rough Route
+-----------
+
+Initially just the order we get them in, will expand it later with more detail
+
+NG
+--
+
+- *Radagon's Soreseal*
+- Roundtable Hold
+- Godskin Noble
+- Shardbearer Rykard
+- God-Slaying Armament
+- Margit, the Fell Omen
+- Shardbearer Godrick
+- Red Wolf of Radagon
+- Rennala, Queen of the Full Moon
+- Great Rune
+- Shardbearer Radahn
+- Mimic Tear
+- *Mimic Tear Ash*
+- *Sword of Night and Flame*
+- Royal Knight Loretta
+- Godfrey the First Lord
+- *Bolt of Gransax*
+- Shardbearer Morgott
+- Magma Wyrm Makar
+- *Eclipse Shotel*
+- Commander Niall
+- Fire Giant
+- Erdtree Aflame
+- Godskin Duo
+- *Devourer's Scepter*
+- *Old Lord's Talisman*
+- Dragonkin Soldier of Nokstella
+- *Moon of Nokstella*
+- Astel, Naturalborn of the Void
+- Regal Ancestor Spirit
+- Valiant Gargoyle
+- *Elden Stars*
+- Lichdragon Fortissax
+- Leonine Misbegotten
+- *Grafted Blade Greatsword*
+- Elemer of the Briar
+- *Marais Executioner's Sword*
+- *Ruins Greatsword*
+- *Godfrey Icon*
+- Loretta, Knight of the Haligtree 
+- *Cleanrot Knight Finlay*
+- *Dragoncrest Greatshield Talisman*
+- *Marika's Soreseal*
+- *Dark Moon Greatsword*
+- *Black Knife Tiche*
+- *Ranni's Dark Moon*
+- Maliketh the Black Blade
+- Hoarah Loux the Warrior
+- Age of the Stars
+- Shardbearer Malenia
+- Shardbearer Mohg
+- Dragonlord Placidusax
+- Ancestor Spirit
+- *Lhutel the Headless* (Tombsward Catacombs, south of the Church of Pilgrimage)
+- *Redmane Knight Ogha* (War-dead Catacombs)
+- *Ancient Dragon Knight Kristoff* (Sainted hero's grave, near where you get Lightning Ram)
+- Legendary Ashen Remains
+- *Golden Order Greatsword* (Forlorn Cave, needs stonesword key)
+- Legendary Armaments
+- *Radagon Icon*
+- *Erdtree's Favor +2* (Capitol of Ash)
+- Legendary Talismans
+- *Flame of the Fell God* (Malefactors Evergaol in Liurnia)
+- *Greyoll's Roar* (Cathedral of Dragon Communion)
+- *Founding Rain of Stars* (Annoying rise with the invisible path)
+- *Comet Azur*
+- *Stars of Ruin* (Selen's quest)
+- Legendary Sorceries and Incantations
+
+NG+
+---
+
+- Mohg, the Omen
+- Lord of Frenzied Flame
+
+NG++
+----
+
+- Elden Lord
