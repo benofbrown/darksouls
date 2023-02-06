@@ -107,10 +107,10 @@ NG
 
 - *Radagon's Soreseal*
 - Roundtable Hold
+- Margit, the Fell Omen
 - Godskin Noble
 - Shardbearer Rykard
 - God-Slaying Armament
-- Margit, the Fell Omen
 - Shardbearer Godrick
 - Red Wolf of Radagon
 - Rennala, Queen of the Full Moon
@@ -131,6 +131,7 @@ NG
 - Godskin Duo
 - *Devourer's Scepter*
 - *Old Lord's Talisman*
+- *Comet Azur*
 - Dragonkin Soldier of Nokstella
 - *Moon of Nokstella*
 - Astel, Naturalborn of the Void
@@ -154,23 +155,22 @@ NG
 - Maliketh the Black Blade
 - Hoarah Loux the Warrior
 - Age of the Stars
+- *Greyoll's Roar* (Cathedral of Dragon Communion)
+- *Radagon Icon*
+- Ancestor Spirit
 - Shardbearer Malenia
 - Shardbearer Mohg
 - Dragonlord Placidusax
-- Ancestor Spirit
 - *Lhutel the Headless* (Tombsward Catacombs, south of the Church of Pilgrimage)
 - *Redmane Knight Ogha* (War-dead Catacombs)
 - *Ancient Dragon Knight Kristoff* (Sainted hero's grave, near where you get Lightning Ram)
 - Legendary Ashen Remains
 - *Golden Order Greatsword* (Forlorn Cave, needs stonesword key)
 - Legendary Armaments
-- *Radagon Icon*
 - *Erdtree's Favor +2* (Capitol of Ash)
 - Legendary Talismans
 - *Flame of the Fell God* (Malefactors Evergaol in Liurnia)
-- *Greyoll's Roar* (Cathedral of Dragon Communion)
 - *Founding Rain of Stars* (Annoying rise with the invisible path)
-- *Comet Azur*
 - *Stars of Ruin* (Selen's quest)
 - Legendary Sorceries and Incantations
 
@@ -195,13 +195,13 @@ We need three of all grades of stones up to 6, and two each of 7-9.
 - [1] Scarab southwest of Artist's Shack in Limgrave, get it after getting the cracked pot from the merchant near Saintsbridge
 - [2] From Blaidd after killing Darriwil
 - [2] Fingercreeper in Caria Manor
-- [2] Another Fingercreeper, or buy from Iji?
+- [2] Another Fingercreeper after grabbing the Sword of Night and Flame
 - [3] Near Belem Highway, down at the lake level
 - [3] Start of the Academy
 - [3] A little further in to the Academy, past the water wheel
 - [4] Near the first [3] one on a chair.
-- [4] Nokron
 - [4] Selia Crystal Tunnel
+- [4] Nokron
 - [5] Before the shortcut in Volcano Manor
 - [5] Scarab on the bridge after Mimic Tear boss
 - [5] Redmane Castle, before the Radahn fight
@@ -209,7 +209,7 @@ We need three of all grades of stones up to 6, and two each of 7-9.
 - [6] First Mt Gelmir campsite near a wolf
 - [6] Bridge leaving the capitol toward forbidden lands
 - [7] Volcano Manor after the stonesword key bit
-- [7] Drop from the fallingstar beast thing after teleporting from Renna's Rise
+- [7] Drop from the lions in Castle Sol
 - [8] Scarab in Caelid
 - [8] Scarab in Mountaintops of the Giants, near the second grace
 - [9] On a chair in Caelid near the scarab we get the [8] from
