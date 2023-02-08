@@ -109,6 +109,8 @@ NG
 - Roundtable Hold
 - Margit, the Fell Omen
 - Godskin Noble
+- *Greyoll's Roar* (Cathedral of Dragon Communion)
+- *Sword of Night and Flame*
 - Shardbearer Rykard
 - God-Slaying Armament
 - Shardbearer Godrick
@@ -118,7 +120,6 @@ NG
 - Shardbearer Radahn
 - Mimic Tear
 - *Mimic Tear Ash*
-- *Sword of Night and Flame*
 - Royal Knight Loretta
 - Godfrey the First Lord
 - *Bolt of Gransax*
@@ -155,7 +156,6 @@ NG
 - Maliketh the Black Blade
 - Hoarah Loux the Warrior
 - Age of the Stars
-- *Greyoll's Roar* (Cathedral of Dragon Communion)
 - *Radagon Icon*
 - Ancestor Spirit
 - Shardbearer Malenia
@@ -201,7 +201,7 @@ We need three of all grades of stones up to 6, and two each of 7-9.
 - [3] A little further in to the Academy, past the water wheel
 - [4] Near the first [3] one on a chair.
 - [4] Selia Crystal Tunnel
-- [4] Nokron
+- [4] On the way to the Makar fight
 - [5] Before the shortcut in Volcano Manor
 - [5] Scarab on the bridge after Mimic Tear boss
 - [5] Redmane Castle, before the Radahn fight
@@ -213,8 +213,6 @@ We need three of all grades of stones up to 6, and two each of 7-9.
 - [8] Scarab in Caelid
 - [8] Scarab in Mountaintops of the Giants, near the second grace
 - [9] On a chair in Caelid near the scarab we get the [8] from
-- [9] On a chair on the bridge near Ancient Snow Valley Overlook
-- Alternative [9] Scarab to the west of Farum Greatbridge
+- [9] Scarab to the west of Farum Greatbridge
 - [10] Mogwyn palace
-- [10] Behind dragon in Crumbling Faram Azula
-- Alternative [10]: Dropped by Anastasia in Consecrated Snowfield
+- [10] Dropped by Anastasia in Consecrated Snowfield
