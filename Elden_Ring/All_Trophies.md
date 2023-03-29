@@ -121,6 +121,7 @@ NG
 - Mimic Tear
 - *Mimic Tear Ash*
 - Royal Knight Loretta
+- Dragonkin Soldier of Nokstella
 - Godfrey the First Lord
 - *Bolt of Gransax*
 - Shardbearer Morgott
@@ -133,7 +134,6 @@ NG
 - *Devourer's Scepter*
 - *Old Lord's Talisman*
 - *Comet Azur*
-- Dragonkin Soldier of Nokstella
 - *Moon of Nokstella*
 - Astel, Naturalborn of the Void
 - Regal Ancestor Spirit
